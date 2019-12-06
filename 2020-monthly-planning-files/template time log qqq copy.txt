@@ -1,0 +1,100 @@
+---  
+title: template time log qqq      
+---   
+ 
+# timelog  
+
+## pomodoro tracking template  
+
+| Pomodoro Number | Time Started | Task | Result |  
+|:-- |:-- |:-- |:-- |  
+
+## half hours military time   
+
+##### today time log    
+
+| Hour | Intention | Outcome/Notes |  
+| :---: | :---: | :---: |  
+| 00:00 am | what/where | w |   
+| 00:30 am | what/where | w |   
+| 01:00 am | what/where | w |   
+| 01:30 am | what/where | w |   
+| 02:00 am | what/where | w |   
+| 02:30 am | what/where | w |   
+| 03:00 am | what/where | w |   
+| 03:30 am | what/where | w |   
+| 04:00 am | what/where | w |   
+| 04:30 am | what/where | w |   
+| 05:00 am | what/where | w |   
+| 05:30 am | what/where | w |   
+| 06:00 am | what/where | w |   
+| 06:30 am | what/where | w |   
+| 07:00 am | what/where | w |   
+| 07:30 am | what/where | w |   
+| 08:00 am | what/where | w |   
+| 08:30 am | what/where | w |   
+| 09:00 am | what/where | w |   
+| 09:30 am | what/where | w |   
+| 10:00 am | what/where | w |   
+| 10:30 am | what/where | w |   
+| 11:00 am | what/where | w |   
+| 11:30 am | what/where | w |   
+| 12:00 pm | what/where | w |   
+| 12:30 pm | what/where | w |   
+| 13:00 pm | what/where | w |   
+| 13:30 pm | what/where | w |   
+| 14:00 pm | what/where | w |   
+| 14:30 pm | what/where | w |   
+| 15:00 pm | what/where | w |   
+| 15:30 pm | what/where | w |   
+| 16:00 pm | what/where | w |   
+| 16:30 pm | what/where | w |   
+| 17:00 pm | what/where | w |   
+| 17:30 pm | what/where | w |   
+| 18:00 pm | what/where | w |   
+| 18:30 pm | what/where | w |   
+| 19:00 pm | what/where | w |   
+| 19:30 pm | what/where | w |   
+| 20:00 pm | what/where | w |   
+| 20:30 pm | what/where | w |   
+| 21:00 pm | what/where | w |   
+| 21:30 pm | what/where | w |   
+| 22:00 pm | what/where | w |   
+| 22:30 pm | what/where | w |   
+| 23:00 pm | what/where | w |   
+| 23:30 pm | what/where | w |   
+
+##### today things   
+
+## hour am/pm time         
+    
+| Hour | Intention | Outcome/Notes |  
+| :---: | :---: | :---: |  
+| 06:00 am | what/where | w |  
+| 07:00 am | what/where | w |  
+| 08:00 am | what/where | w |   
+| 09:00 am | what/where | w |   
+| 10:00 am | what/where | w |   
+| 11:00 am | what/where | w |   
+| 12:00 pm | what/where | w |   
+| 01:00 pm | what/where | w |   
+| 02:00 pm | what/where | w |   
+| 03:00 pm | what/where | w |   
+| 04:00 pm | what/where | w |   
+| 05:00 pm | what/where | w |   
+| 06:00 pm | what/where | w |   
+| 07:00 pm | what/where | w |   
+| 08:00 pm | what/where | w |   
+| 09:00 pm | what/where | w |   
+| i | what/where | w |   
+| i | what/where | w |   
+| i | what/where | w |   
+| i | what/where | w |   
+| i | what/where | w |   
+| i | what/where | w |   
+| i | what/where | w |   
+| i | what/where | w |   
+| i | what/where | w |   
+
+
+qqqqq

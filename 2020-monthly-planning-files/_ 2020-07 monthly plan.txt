@@ -1,0 +1,773 @@
+---  
+fileTitle: _ 2020-07 monthly plan  
+dateCreated: 2019-12-02  
+tags: 2020 july monthly plan  
+status:  
+itemStatusOptions:  
+  - @bigWeek(optionalInfo)  
+  - @deferred(dateDeferredUntil)  
+  - @done(optionalInfo)  
+  - @important(optionalInfo)  
+  - @skipped(optionalInfo)  
+  - @someday(optionalInfo)  
+  - @started(dateStarted)  
+  - @urgent(optionalInfo)  
+  - @waiting(optionalInfo)  
+---  
+
+# Tasks.todo  
+
+## File Links  
+
+[[__ 2019 yearly plan]]  
+[[_ 2020 yearly plan]]
+[[_ 2020-06 monthly plan]]  
+[[_ 2020-08 monthly plan]]  
+
+## Month Overview  
+
+### Goals  
+
+- [ ] monthly review  
+- [ ] pay billA  
+- [ ] pay billB  
+- [ ] etc  
+
+#### Reading  
+
+### Events  
+
+## Week27 (2020-06-29--2020-07-05)  
+
+### Goals  
+
+#### Reading  
+
+### Events  
+
+### Days  
+
+#### 2020-06-29 Monday  
+
+1. [ ]   
+
+<!-- -->  
+
+| Pomodoro | Task | Time Started | Result |  
+|:--- |:--- |:--- |:--- |  
+
+- [ ] add [[template time log qqq]]  
+- [ ] look at weekly goals  
+- [ ]   
+- [ ] meditation/exercise/yoga  
+- [ ] nightly review  
+
+<!-- -->  
+
+-  
+
+#### 2020-06-30 Tuesday  
+
+1. [ ]   
+
+<!-- -->  
+
+| Pomodoro | Task | Time Started | Result |  
+|:--- |:--- |:--- |:--- |  
+
+- [ ] add [[template time log qqq]]  
+- [ ] look at weekly goals  
+- [ ]   
+- [ ] meditation/exercise/yoga  
+- [ ] nightly review  
+
+<!-- -->  
+
+-  
+
+#### 2020-07-01 Wednesday  
+
+1. [ ]   
+
+<!-- -->  
+
+| Pomodoro | Task | Time Started | Result |  
+|:--- |:--- |:--- |:--- |  
+
+- [ ] add [[template time log qqq]]  
+- [ ] look at weekly goals  
+- [ ]   
+- [ ] meditation/exercise/yoga  
+- [ ] nightly review  
+
+<!-- -->  
+
+-  
+
+#### 2020-07-02 Thursday  
+
+1. [ ]   
+
+<!-- -->  
+
+| Pomodoro | Task | Time Started | Result |  
+|:--- |:--- |:--- |:--- |  
+
+- [ ] add [[template time log qqq]]  
+- [ ] look at weekly goals  
+- [ ]   
+- [ ] meditation/exercise/yoga  
+- [ ] nightly review  
+
+<!-- -->  
+
+-  
+
+#### 2020-07-03 Friday  
+
+1. [ ]   
+
+<!-- -->  
+
+| Pomodoro | Task | Time Started | Result |  
+|:--- |:--- |:--- |:--- |  
+
+- [ ] add [[template time log qqq]]  
+- [ ] look at weekly goals  
+- [ ]   
+- [ ] meditation/exercise/yoga  
+- [ ] nightly review  
+
+<!-- -->  
+
+-  
+
+#### 2020-07-04 Saturday  
+
+1. [ ]   
+
+<!-- -->  
+
+| Pomodoro | Task | Time Started | Result |  
+|:--- |:--- |:--- |:--- |  
+
+- [ ] add [[template time log qqq]]  
+- [ ] look at weekly goals  
+- [ ]    
+- [ ] meditation/exercise/yoga  
+- [ ] nightly review  
+
+<!-- -->  
+
+-  
+
+#### 2020-07-05 Sunday  
+
+1. [ ]   
+
+<!-- -->  
+
+| Pomodoro | Task | Time Started | Result |  
+|:--- |:--- |:--- |:--- |  
+
+- [ ] add [[template time log qqq]]  
+- [ ] look at weekly goals  
+- [ ] do weekly review  
+- [ ] write weekly reflection    
+- [ ]   
+- [ ] meditation/exercise/yoga  
+- [ ] nightly review  
+
+<!-- -->  
+
+-  
+
+### Week27 (2020-06-29--2020-07-05) Weekly Holdovers  
+
+## Week28 (2020-07-06--2020-07-12)  
+
+### Goals  
+
+#### Reading  
+
+### Events  
+
+### Days  
+
+#### 2020-07-06 Monday  
+
+1. [ ]   
+
+<!-- -->  
+
+| Pomodoro | Task | Time Started | Result |  
+|:--- |:--- |:--- |:--- |  
+
+- [ ] add [[template time log qqq]]  
+- [ ] look at weekly goals  
+- [ ]   
+- [ ] meditation/exercise/yoga  
+- [ ] nightly review  
+
+<!-- -->  
+
+-  
+
+#### 2020-07-07 Tuesday  
+
+1. [ ]   
+
+<!-- -->  
+
+| Pomodoro | Task | Time Started | Result |  
+|:--- |:--- |:--- |:--- |  
+
+- [ ] add [[template time log qqq]]  
+- [ ] look at weekly goals  
+- [ ]   
+- [ ] meditation/exercise/yoga  
+- [ ] nightly review  
+
+<!-- -->  
+
+-  
+
+#### 2020-07-08 Wednesday  
+
+1. [ ]   
+
+<!-- -->  
+
+| Pomodoro | Task | Time Started | Result |  
+|:--- |:--- |:--- |:--- |  
+
+- [ ] add [[template time log qqq]]  
+- [ ] look at weekly goals  
+- [ ]   
+- [ ] meditation/exercise/yoga  
+- [ ] nightly review  
+
+<!-- -->  
+
+-  
+
+#### 2020-07-09 Thursday  
+
+1. [ ]   
+
+<!-- -->  
+
+| Pomodoro | Task | Time Started | Result |  
+|:--- |:--- |:--- |:--- |  
+
+- [ ] add [[template time log qqq]]  
+- [ ] look at weekly goals  
+- [ ]   
+- [ ] meditation/exercise/yoga  
+- [ ] nightly review  
+
+<!-- -->  
+
+-  
+
+#### 2020-07-10 Friday  
+
+1. [ ]   
+
+<!-- -->  
+
+| Pomodoro | Task | Time Started | Result |  
+|:--- |:--- |:--- |:--- |  
+
+- [ ] add [[template time log qqq]]  
+- [ ] look at weekly goals  
+- [ ]   
+- [ ] meditation/exercise/yoga  
+- [ ] nightly review  
+
+<!-- -->  
+
+-  
+
+#### 2020-07-11 Saturday  
+
+1. [ ]   
+
+<!-- -->  
+
+| Pomodoro | Task | Time Started | Result |  
+|:--- |:--- |:--- |:--- |  
+
+- [ ] add [[template time log qqq]]  
+- [ ] look at weekly goals  
+- [ ]   
+- [ ] meditation/exercise/yoga  
+- [ ] nightly review  
+
+<!-- -->  
+
+-  
+
+#### 2020-07-12 Sunday  
+
+1. [ ]   
+
+<!-- -->  
+
+| Pomodoro | Task | Time Started | Result |  
+|:--- |:--- |:--- |:--- |  
+
+- [ ] add [[template time log qqq]]  
+- [ ] look at weekly goals  
+- [ ] do weekly review  
+- [ ] write weekly reflection    
+- [ ]   
+- [ ] meditation/exercise/yoga  
+- [ ] nightly review  
+
+<!-- -->  
+
+-  
+
+### Week28 (2020-07-06--2020-07-12) Weekly Holdovers  
+
+## Week29 (2020-07-13--2020-07-19)  
+
+### Goals  
+
+#### Reading  
+
+### Events  
+
+### Days  
+
+#### 2020-07-13 Monday  
+
+1. [ ]   
+
+<!-- -->  
+
+| Pomodoro | Task | Time Started | Result |  
+|:--- |:--- |:--- |:--- |  
+
+- [ ] add [[template time log qqq]]  
+- [ ] look at weekly goals  
+- [ ]   
+- [ ] meditation/exercise/yoga  
+- [ ] nightly review  
+
+<!-- -->  
+
+-  
+
+#### 2020-07-14 Tuesday  
+
+1. [ ]   
+
+<!-- -->  
+
+| Pomodoro | Task | Time Started | Result |  
+|:--- |:--- |:--- |:--- |  
+
+- [ ] add [[template time log qqq]]  
+- [ ] look at weekly goals  
+- [ ]   
+- [ ] meditation/exercise/yoga  
+- [ ] nightly review  
+
+<!-- -->  
+
+-  
+
+#### 2020-07-15 Wednesday  
+
+1. [ ]   
+
+<!-- -->  
+
+| Pomodoro | Task | Time Started | Result |  
+|:--- |:--- |:--- |:--- |  
+
+- [ ] add [[template time log qqq]]  
+- [ ] look at weekly goals  
+- [ ]   
+- [ ] meditation/exercise/yoga  
+- [ ] nightly review  
+
+<!-- -->  
+
+-  
+
+#### 2020-07-16 Thursday  
+
+1. [ ]   
+
+<!-- -->  
+
+| Pomodoro | Task | Time Started | Result |  
+|:--- |:--- |:--- |:--- |  
+
+- [ ] add [[template time log qqq]]  
+- [ ] look at weekly goals  
+- [ ]   
+- [ ] meditation/exercise/yoga  
+- [ ] nightly review  
+
+<!-- -->  
+
+-  
+
+#### 2020-07-17 Friday  
+
+1. [ ]   
+
+<!-- -->  
+
+| Pomodoro | Task | Time Started | Result |  
+|:--- |:--- |:--- |:--- |  
+
+- [ ] add [[template time log qqq]]  
+- [ ] look at weekly goals  
+- [ ]   
+- [ ] meditation/exercise/yoga  
+- [ ] nightly review  
+
+<!-- -->  
+
+-  
+
+#### 2020-07-18 Saturday  
+
+1. [ ]   
+
+<!-- -->  
+
+| Pomodoro | Task | Time Started | Result |  
+|:--- |:--- |:--- |:--- |  
+
+- [ ] add [[template time log qqq]]  
+- [ ] look at weekly goals  
+- [ ]   
+- [ ] meditation/exercise/yoga  
+- [ ] nightly review  
+
+<!-- -->  
+
+-  
+
+#### 2020-07-19 Sunday  
+
+1. [ ]   
+
+<!-- -->  
+
+| Pomodoro | Task | Time Started | Result |  
+|:--- |:--- |:--- |:--- |  
+
+- [ ] add [[template time log qqq]]  
+- [ ] look at weekly goals  
+- [ ] do weekly review  
+- [ ] write weekly reflection    
+- [ ]   
+- [ ] meditation/exercise/yoga  
+- [ ] nightly review  
+
+<!-- -->  
+
+-  
+
+### Week29 (2020-07-13--2020-07-19) Weekly Holdovers  
+
+## Week30 (2020-07-20--2020-07-26)  
+
+### Goals  
+
+#### Reading  
+
+### Events  
+
+### Days  
+
+#### 2020-07-20 Monday  
+
+1. [ ]   
+
+<!-- -->  
+
+| Pomodoro | Task | Time Started | Result |  
+|:--- |:--- |:--- |:--- |  
+
+- [ ] add [[template time log qqq]]  
+- [ ] look at weekly goals  
+- [ ]   
+- [ ] meditation/exercise/yoga  
+- [ ] nightly review  
+
+<!-- -->  
+
+-  
+
+#### 2020-07-21 Tuesday  
+
+1. [ ]   
+
+<!-- -->  
+
+| Pomodoro | Task | Time Started | Result |  
+|:--- |:--- |:--- |:--- |  
+
+- [ ] add [[template time log qqq]]  
+- [ ] look at weekly goals  
+- [ ]   
+- [ ] meditation/exercise/yoga  
+- [ ] nightly review  
+
+<!-- -->  
+
+-  
+
+#### 2020-07-22 Wednesday  
+
+1. [ ]   
+
+<!-- -->  
+
+| Pomodoro | Task | Time Started | Result |  
+|:--- |:--- |:--- |:--- |  
+
+- [ ] add [[template time log qqq]]  
+- [ ] look at weekly goals  
+- [ ]   
+- [ ] meditation/exercise/yoga  
+- [ ] nightly review  
+
+<!-- -->  
+
+-  
+
+#### 2020-07-23 Thursday  
+
+1. [ ]   
+
+<!-- -->  
+
+| Pomodoro | Task | Time Started | Result |  
+|:--- |:--- |:--- |:--- |  
+
+- [ ] add [[template time log qqq]]  
+- [ ] look at weekly goals  
+- [ ]   
+- [ ] meditation/exercise/yoga  
+- [ ] nightly review  
+
+<!-- -->  
+
+-  
+
+#### 2020-07-24 Friday  
+
+1. [ ]   
+
+<!-- -->  
+
+| Pomodoro | Task | Time Started | Result |  
+|:--- |:--- |:--- |:--- |  
+
+- [ ] add [[template time log qqq]]  
+- [ ] look at weekly goals  
+- [ ]   
+- [ ] meditation/exercise/yoga  
+- [ ] nightly review  
+
+<!-- -->  
+
+-  
+
+#### 2020-07-25 Saturday  
+
+1. [ ]   
+
+<!-- -->  
+
+| Pomodoro | Task | Time Started | Result |  
+|:--- |:--- |:--- |:--- |  
+
+- [ ] add [[template time log qqq]]  
+- [ ] look at weekly goals  
+- [ ]   
+- [ ] meditation/exercise/yoga  
+- [ ] nightly review  
+
+<!-- -->  
+
+-  
+
+#### 2020-07-26 Sunday  
+
+1. [ ]   
+
+<!-- -->  
+
+| Pomodoro | Task | Time Started | Result |  
+|:--- |:--- |:--- |:--- |  
+
+- [ ] add [[template time log qqq]]  
+- [ ] look at weekly goals  
+- [ ] do weekly review  
+- [ ] write weekly reflection    
+- [ ]   
+- [ ] meditation/exercise/yoga  
+- [ ] nightly review  
+
+<!-- -->  
+
+-  
+
+### Week30 (2020-07-20--2020-07-26) Weekly Holdovers  
+
+## Week31 (2020-07-27--2020-08-02)  
+
+### Goals  
+
+#### Reading  
+
+### Events  
+
+### Days  
+
+#### 2020-07-27 Monday  
+
+1. [ ]   
+
+<!-- -->  
+
+| Pomodoro | Task | Time Started | Result |  
+|:--- |:--- |:--- |:--- |  
+
+- [ ] add [[template time log qqq]]  
+- [ ] look at weekly goals  
+- [ ]   
+- [ ] meditation/exercise/yoga  
+- [ ] nightly review  
+
+<!-- -->  
+
+-  
+
+#### 2020-07-28 Tuesday  
+
+1. [ ]   
+
+<!-- -->  
+
+| Pomodoro | Task | Time Started | Result |  
+|:--- |:--- |:--- |:--- |  
+
+- [ ] add [[template time log qqq]]  
+- [ ] look at weekly goals  
+- [ ]   
+- [ ] meditation/exercise/yoga  
+- [ ] nightly review  
+
+<!-- -->  
+
+-  
+
+#### 2020-07-29 Wednesday  
+
+1. [ ]   
+
+<!-- -->  
+
+| Pomodoro | Task | Time Started | Result |  
+|:--- |:--- |:--- |:--- |  
+
+- [ ] add [[template time log qqq]]  
+- [ ] look at weekly goals  
+- [ ]   
+- [ ] meditation/exercise/yoga  
+- [ ] nightly review  
+
+<!-- -->  
+
+-  
+
+#### 2020-07-30 Thursday  
+
+1. [ ]   
+
+<!-- -->  
+
+| Pomodoro | Task | Time Started | Result |  
+|:--- |:--- |:--- |:--- |  
+
+- [ ] add [[template time log qqq]]  
+- [ ] look at weekly goals  
+- [ ]   
+- [ ] meditation/exercise/yoga  
+- [ ] nightly review  
+
+<!-- -->  
+
+-  
+
+#### 2020-07-31 Friday  
+
+1. [ ]   
+
+<!-- -->  
+
+| Pomodoro | Task | Time Started | Result |  
+|:--- |:--- |:--- |:--- |  
+
+- [ ] add [[template time log qqq]]  
+- [ ] look at weekly goals  
+- [ ]   
+- [ ] meditation/exercise/yoga  
+- [ ] nightly review  
+
+<!-- -->  
+
+-  
+
+#### 2020-08-01 Saturday  
+
+1. [ ]   
+
+<!-- -->  
+
+| Pomodoro | Task | Time Started | Result |  
+|:--- |:--- |:--- |:--- |  
+
+- [ ] add [[template time log qqq]]  
+- [ ] look at weekly goals  
+- [ ]   
+- [ ] meditation/exercise/yoga  
+- [ ] nightly review  
+
+<!-- -->  
+
+-  
+
+#### 2020-08-02 Sunday  
+
+1. [ ]   
+
+<!-- -->  
+
+| Pomodoro | Task | Time Started | Result |  
+|:--- |:--- |:--- |:--- |  
+
+- [ ] add [[template time log qqq]]  
+- [ ] look at weekly goals  
+- [ ] do weekly review  
+- [ ] write weekly reflection    
+- [ ]   
+- [ ] meditation/exercise/yoga  
+- [ ] nightly review  
+
+<!-- -->  
+
+-  
+
+### Week31 (2020-07-27--2020-08-02) Weekly Holdovers  
