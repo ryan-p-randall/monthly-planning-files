@@ -100,11 +100,13 @@ Let's say it's currently 1:00pm and you're looking at this section of the file:
 - [ ] proofread documentation  
 ```  
 
-The ordered list shows that you've already had a meeting this morning, and that you've got another hour and a half before you need to be at the Main Library's reference desk and ready for that shift. In practice, if it's 1:00pm and I'm looking at this file, I'll also look at the tool I used to collaborate with my colleagues to make sure nothing else has been added. This need for extra systems is part of why I stress that this is an **attention** management system, not a system that's sufficient for managing all your tasks & committments. 
+The ordered list shows that you've already had a meeting this morning, and that you've got another hour and a half before you need to be at the Main Library's reference desk and ready for that shift. However, since it takes a half hour to get over there, you've been kind to Near Future, 2:30PM You and added in your travel time as a task.  
+
+In practice, if it's 1:00pm and I'm looking at this file, I'll also look at the tool I used to collaborate with my colleagues to make sure nothing else has been added. This need for extra systems is part of why I stress that this is an **attention** management system, not a system that's sufficient for managing all your tasks & committments. 
 
 Having checked whatever tools you use to coordinate with your team, you're free to select whatever seems like the right thing to do from those tasks that don't have specific start & end times and also aren't already marked completed with a `[x]`.  
 
-You can also see from the that you've started writing documentation, specifically the changelog. Since you've added the time it took within the optional element after your `@done` tag, if you ever need to do that again in the future, you can quickly search for `changelog` in the whole project and see if Past YOU has ever written down how long it took you to do that on a particular day. I find that extra time information really helpful when trying to figure out what to do and how long it might take.  
+You can also see from the unordered list of tasks that you've started writing documentation, specifically the changelog. Since you've added the time it took within the optional element after your `@done` tag, if you ever need to do that again in the future, you can quickly search for `changelog` in the whole project and see if Past You has ever written down how long it took you to do that on a particular day. I find that extra time information really helpful when trying to figure out what to do and how long it might take.  
 
 ### structure  
 
@@ -112,11 +114,15 @@ Each file uses [markdown](https://www.markdownguide.org/getting-started/) headin
 
 #### front matter  
 
-At the top of each file, you've got some basic [YAML](https://yaml.org)-formatted front matter with [metadata](http://www.language-archives.org/documents/gentle-intro.html) that you can easily search by either month number or the name of the month. This front matter also spells out some optional autocompletion "status" terms, all of which you can change. Since these are just text files and not actually processed by anything, it's not important for them to be in YAML format. I just followed that convention to make searchable front matter because I'm used to using [Jekyll](https://jekyllrb.com/), a program for making static websites used by GitHub, GitLab, and a bunch of other sites.  
+At the top of each file, you've got some basic [YAML](https://yaml.org)-formatted front matter with [metadata](http://www.language-archives.org/documents/gentle-intro.html) that you can easily search by either month number or the name of the month. This front matter also spells out some optional autocompletion "status" terms, all of which you can change. 
+
+Since these are ultimately just text files and not actually converted into web pages or anything, it's not important for them to be in YAML format. I've followed that convention to make searchable front matter mostly because I'm used to using [Jekyll](https://jekyllrb.com/), a program for making static websites used by GitHub, GitLab, and a bunch of other sites.  
 
 #### wikilinks  
 
-Below the front matter / metadata section, each file has links to other files in the `[[wikilink]]` format. You can put this type of link anywhere you want in a file. I treat the top of the file as a sort of index / breadcrumbs area, and I'll add other wikilinks anywhere else they're relevant. If you use the [wikilink package in Atom](https://atom.io/packages/wikilink) you can also follow these links with simple key commands.   
+Below the front matter / metadata section, each file has links to other files in the `[[wikilink]]` format. You can put this type of link anywhere you want in a file.  
+
+I treat the top of the file as a sort of index / breadcrumbs area, and I'll add other wikilinks anywhere else they're relevant. If you use the [wikilink package in Atom](https://atom.io/packages/wikilink) you can also follow these links with simple key commands. I don't often use the included [time log template](time-log-template.txt), but I do find it extremely useful on hectic days or ones where I'm easily distracted than usual.  
 
 #### planning and review  
 
