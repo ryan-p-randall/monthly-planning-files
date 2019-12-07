@@ -4,13 +4,38 @@ Text files with [markdown](https://www.markdownguide.org/getting-started/) forma
 
 ![keanu reeves as ted telling bill 'So after the report we can't forget to do this otherwise it won't happen'](/images/can't-forget.gif)
 
+## table of contents  
+
+- [recommended tools](#recommended-tools)  
+  - [recommended packages for atom](#recommended-packages-for-atom)  
+  - [phone text editors](#phone-text-editors)  
+- [recommended use](#recommended-use)  
+- [sounds intriguing but can you walk me through each file a little more?](#sounds-intriguing-but-can-you-walk-me-through-each-file-a-little-more)  
+  - [task lists](#task-lists)  
+    - [tasks to do at certain times](#tasks-to-do-at-certain-times)  
+    - [tasks that can be done at any time](#tasks-that-can-be-done-at-any-time)  
+    - [task annotations](#task-annotations)  
+  - [example of a day](#example-of-a-day)    
+  - [structure](#structure)  
+    - [front matter](#front-matter)  
+    - [wikilinks](#wikilinks)  
+    - [planning and review](#planning-and-review)  
+    - [conventions and duplication](#conventions-and-duplication)  
+    - [file extension](#file-extension)  
+ - [inspiration](#inspiration)  
+ - [license](#license)  
+
 ## recommended tools  
 
 I've been using variations of these monthly planning text files since 2013, always in a text editor that syncs  what's on my phone and my computer. This setup works quite well, since it supplies two important things a paper planner lacks: 1. text tools like "search in project" or batch "find & replace" and 2. the ability to not be left behind in a coffeeshop or bus.  
 
 Put differently, these files blend the basic system of a [bullet journal](https://bulletjournal.com/pages/learn) with all the coolness of [plain text](http://bettermess.com/a-plain-text-primer/) files edited in $yourFavoriteTextEditor.  
 
-If you don't already favorite text editor, I'd recommend [Atom](http://atom.io). If you want something more streamlined, on Mac you could try [nvALT](https://brettterpstra.com/projects/nvalt/) or the forthcoming [nvULTRA](https://brettterpstra.com/2019/04/10/codename-nvultra/). On PC you could try [ResophNotes](https://www.resoph.com/ResophNotes/Welcome.html). On Linux you could do just about anything your heart desires, up to and including using [nvPy](https://github.com/cpbotha/nvpy).)  
+If you don't already favorite text editor, I'd recommend [Atom](http://atom.io), which works on Mac, PC, and Linux and is highly extendable and customizable.    
+
+If you want something more streamlined, on Mac you could try [nvALT](https://brettterpstra.com/projects/nvalt/) or the forthcoming [nvULTRA](https://brettterpstra.com/2019/04/10/codename-nvultra/). On PC you could try [ResophNotes](https://www.resoph.com/ResophNotes/Welcome.html). On Linux you could do just about anything your heart desires, up to and including using [nvPy](https://github.com/cpbotha/nvpy).  
+
+### recommended packages for atom  
 
 If you *do* use Atom, I'd recommend installing and using these packages:  
   - [Toggle Markdown Task](https://atom.io/packages/toggle-markdown-task), which lets you mark tasks done  
@@ -19,7 +44,11 @@ If you *do* use Atom, I'd recommend installing and using these packages:
   - [wikilink](https://atom.io/packages/wikilink), which lets you link between notes using the name of the `[[target note]]` surrounded by two brackets. That's right: with the package installed, that `[[target note]]` could let you quickly jump to a separate note named `target note`. These files already include this style link for moving between months or years.  
   - [Tomatimer](https://atom.io/packages/tomatimer), which puts a lightly configurable [pomodoro timer](https://en.wikipedia.org/wiki/Pomodoro_Technique) into Atom's status bar and reminds you to take occasional breaks. The files have the beginnings of a markdown-formatted table for each day in case you're moved to try the [Pomodoro technique](http://baomee.info/pdf/technique/1.pdf) in detail that day.  
 
+### phone text editors  
+
 As for the phone side of things… [Editorial](https://omz-software.com/editorial/) is the only iOS editor I know of that will quickly let you move through markdown files by heading. I hope it gets an update soon and/or that this feature begins being common in phone editors, of which there are [more than a few](https://brettterpstra.com/ios-text-editors/).  
+
+If you know of others phone editors that let users move through markdown files by heading, please let me know. Maybe submit a comment as an issue here on Github?  
 
 ## recommended use  
 
@@ -35,14 +64,31 @@ You got it, friendly invented interlocutor!
 
 ### task lists  
 
-The most basic thing is that each file uses [Github-Flavored Markdown task lists](https://github.github.com/gfm/#task-list-items-extension-). For each day, you have an ordered list of tasks (which I use as times of where I need to be somewhere) and an unordered lists of tasks (which I use for things that don't have to be in a particular time).  
+The most basic thing is that each file uses [Github-Flavored Markdown task lists](https://github.github.com/gfm/#task-list-items-extension-). For each day, you have an ordered list of tasks and an unordered lists of tasks. In between, the `<!-- -->` html comment serves both as a visual separator for you and as a programmatic separator for any markdown rendering tools you use. Without it, the unnumbered list of tasks will likely be rendered as a continuation of the previous numbered list of tasks with start & end times.  
+
+#### tasks to do at certain times  
+
+The ordered list (which starts with `1. [ ]`) shows you tasks that should happen at a particular time & place. I use a `|` to separate the time and the place.  
+
+Putting timed tasks both helps prompt me to remember when things need to happen, and to actually think through the process of my day. For instance, I'll often add an extra "buffer" task that tell me to leave my office 35 minutes before it's time to work with a class on our other campus.  
+
+#### tasks that can be done at any time  
+
+The unordered list (which starts with `- [ ]`) shows you tasks that can be done whenever. I try to break each task into indented sub-tasks, each of which represents the minimum possible unit of success. That helps keep me motivated & on track to completing the larger task, while also helping me keep track of where I am when I inevitably get interrupted or distracted.  
+
+#### task annotations  
+
+I try to annotate each task with one or more tags, each of which contains extra info in parenthesis. The front matter in each file is there to suggest a taxonomy of tags, to simply things for you and your text editor's autocomplete functions. If you want to change them, it's simple to use find & replace in project to swap the ones I wrote with whatever you prefer.  
+
+### example of a day  
 
 Let's say it's currently 1:00pm and you're looking at this section of the file:  
 ```  
 #### 2019-12-03 Tuesday  
 
 1. [x] 10:00am--11:00am | Meeting, Office 110  
-2. [ ] 2:30pm--5:00pm | Reference Desk Shift, Main Library   
+2. [ ] 2:00pm--2:30pm | Get over to Main Library  
+3. [ ] 2:30pm--5:00pm | Reference Desk Shift, Main Library  
 
 <!-- -->  
 
@@ -54,11 +100,7 @@ Let's say it's currently 1:00pm and you're looking at this section of the file:
 - [ ] proofread documentation  
 ```  
 
-You can quickly see that there's an ordered list of tasks with start & end times, a separator, and another unordered list of tasks without times. What do these do?  
-
 The ordered list shows that you've already had a meeting this morning, and that you've got another hour and a half before you need to be at the Main Library's reference desk and ready for that shift. In practice, if it's 1:00pm and I'm looking at this file, I'll also look at the tool I used to collaborate with my colleagues to make sure nothing else has been added. This need for extra systems is part of why I stress that this is an **attention** management system, not a system that's sufficient for managing all your tasks & committments. 
-
-That `<!-- -->` html comment serves both as a visual separator for you and more importantly as a programmatic separator for any markdown rendering tools you use. Without it, the unnumbered list of tasks will be rendered as a continuation of the previous numbered list of tasks with start & end times.  
 
 Having checked whatever tools you use to coordinate with your team, you're free to select whatever seems like the right thing to do from those tasks that don't have specific start & end times and also aren't already marked completed with a `[x]`.  
 
@@ -68,13 +110,29 @@ You can also see from the that you've started writing documentation, specificall
 
 Each file uses [markdown](https://www.markdownguide.org/getting-started/) headings (designated by one or more `#`) to let you fold away what you don't want to see. You can fold by week, by day, as well by other headings.  
 
-At the top of each file, you've got some basic [YAML](https://yaml.org)-formatted [metadata](http://www.language-archives.org/documents/gentle-intro.html) that lets you search by either month number or the name of the month. This front matter also spells out some optional autocompletion "status" terms, all of which you can change. Since these are just text files and not actually processed by anything, it's not important for them to be in YAML format. I just followed that convention to make searchable front matter because I'm used to using [Jekyll](https://jekyllrb.com/), a program for making static websites used by GitHub, GitLab, and a bunch of other sites.  
+#### front matter  
 
-Below the metadata section, each file has links to other files in the `[[wikilink]]` format. You can put this type of link anywhere you want in a file. I treat the top of the file as a sort of index / breadcrumbs area, and I'll add other wikilinks anywhere else they're relevant. If you use the [wikilink package in Atom](https://atom.io/packages/wikilink) you can also follow these links with simple key commands.   
+At the top of each file, you've got some basic [YAML](https://yaml.org)-formatted front matter with [metadata](http://www.language-archives.org/documents/gentle-intro.html) that you can easily search by either month number or the name of the month. This front matter also spells out some optional autocompletion "status" terms, all of which you can change. Since these are just text files and not actually processed by anything, it's not important for them to be in YAML format. I just followed that convention to make searchable front matter because I'm used to using [Jekyll](https://jekyllrb.com/), a program for making static websites used by GitHub, GitLab, and a bunch of other sites.  
 
-To prompt regular reviews—a crucial part of planning that I often overlook—there are lines for daily logs of what you've accomplished, as well as sections for planning before a week starts and for things you need to follow up on at the end. In each day, the little html-style `<!-- -->` comment is there to distinguish between the list of what you did & the previous tasks both for you, the human using the file, and for overambitious markdown rendering engines.  
+#### wikilinks  
 
-Finally, even though most people use `.md` for markdown-formatted files, I prefer to have them be `.txt` (unless there's a need for them to be otherwise, like in Jekyll or other environments). You can of course change that for your own purposes. If you leave them as `.txt` files, you may need to tell Atom or whatever editor you're using to treat them as (github flavored) markdown files.  
+Below the front matter / metadata section, each file has links to other files in the `[[wikilink]]` format. You can put this type of link anywhere you want in a file. I treat the top of the file as a sort of index / breadcrumbs area, and I'll add other wikilinks anywhere else they're relevant. If you use the [wikilink package in Atom](https://atom.io/packages/wikilink) you can also follow these links with simple key commands.   
+
+#### planning and review  
+
+To prompt regular planning and review—crucial parts of planning that I increasingly overlook the busier I become—these files have multiple prompts for planning and review.  
+
+At the beginning of each month and week there are sections for goals. At the end of each day, there are lines to log what you actually did. In this space I'll often add things like I went for a walk, I read an article I saw shared on social media, or other actions that weren't exactly planned but were still notable. Each week also has a "weekly holdovers" section where you can collect all the things you still think are worth doing and don't want to forget.  
+
+#### conventions and duplication  
+
+These files mostly use [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) conventions for time, both in writing dates as `YYYY-MM-DD` and in naming weeks. Because as [XKCD agrees](https://xkcd.com/1179/), it is the correct format. In particular, ISO 8601 format puts the numbers in largest to smallest unit. Therefore your computer's file manager will sort files named according to that format correctly.  
+
+Having double entries for a particular date (i.e. days at the end of beginning or end of a month on two separate monthly files) sets you up for mistakes. Therefore, each date and week only shows up on a single file, determined by the beginning of the week that includes that date.  
+
+#### file extension  
+
+Even though most people use `.md` for markdown-formatted files, I prefer to have them be `.txt` (unless there's a need for them to be otherwise, like in Jekyll or other environments). You can of course change that for your own purposes. If you leave them as `.txt` files, you may need to tell Atom or whatever editor you're using to treat them as (github flavored) markdown files.  
 
 ## inspiration  
 
