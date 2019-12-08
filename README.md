@@ -31,13 +31,13 @@ I've been using variations of these monthly planning text files since 2013, alwa
 
 Put differently, these files blend the basic system of a [bullet journal](https://bulletjournal.com/pages/learn) with all the coolness of [plain text](http://bettermess.com/a-plain-text-primer/) files edited in $yourFavoriteTextEditor.  
 
-If you don't already favorite text editor, I'd recommend [Atom](http://atom.io), which works on Mac, PC, and Linux and is highly extendable and customizable.    
+If you don't already have a favorite text editor, I'd recommend [Atom](http://atom.io). It works on Mac, PC, and Linux and is highly extendable and customizable.  
 
-If you want something more streamlined, on Mac you could try [nvALT](https://brettterpstra.com/projects/nvalt/) or the forthcoming [nvULTRA](https://brettterpstra.com/2019/04/10/codename-nvultra/). On PC you could try [ResophNotes](https://www.resoph.com/ResophNotes/Welcome.html). On Linux you could do just about anything your heart desires, up to and including using [nvPy](https://github.com/cpbotha/nvpy).  
+If you want an app that's more streamlined, on Mac you could try [nvALT](https://brettterpstra.com/projects/nvalt/) or the forthcoming [nvULTRA](https://brettterpstra.com/2019/04/10/codename-nvultra/). On PC you could try [ResophNotes](https://www.resoph.com/ResophNotes/Welcome.html). On Linux you could do just about anything your heart desires, up to and including using [nvPy](https://github.com/cpbotha/nvpy).  
 
 ### recommended packages for atom  
 
-If you *do* use Atom, I'd recommend installing and using these packages:  
+If you *do* use Atom, consider installing and befriending these packages:  
   - [Toggle Markdown Task](https://atom.io/packages/toggle-markdown-task), which lets you mark tasks done  
   - [markdown-folding](https://atom.io/packages/markdown-folding), which folds lines of text at different heading levels, all of which are marked with one or more `#`. With it, you can fold lines at the week and day level in these files, among others.  
   - [language-markdown](https://atom.io/packages/language-markdown), which is an alternative for the built-in `language-gfm` that adds extra things for lists, including a very satisfying greyed-out effect when you've marked a task done by making its `[ ]` box have an `[x]` instead.  
@@ -46,7 +46,9 @@ If you *do* use Atom, I'd recommend installing and using these packages:
 
 ### phone text editors  
 
-As for the phone side of things… [Editorial](https://omz-software.com/editorial/) is the only iOS editor I know of that will quickly let you move through markdown files by heading. I hope it gets an update soon and/or that this feature begins being common in phone editors, of which there are [more than a few](https://brettterpstra.com/ios-text-editors/).  
+As for the phone side of things, [Editorial](https://omz-software.com/editorial/) is unfortunately the only iOS editor I know of that will quickly let you move through markdown files. In addition to simple scrolling, the file's title doubles as a scrollable table of contents based on headings. This single feature makes it far faster to get to the last week of a month!  
+
+Hopefully Editorial gets an update soon, and/or this feature begins being common in phone editors. Here are [more than a few iOS options](https://brettterpstra.com/ios-text-editors/).  
 
 If you know of others phone editors that let users move through markdown files by heading, please let me know. Maybe submit a comment as an issue here on Github?  
 
@@ -54,7 +56,7 @@ If you know of others phone editors that let users move through markdown files b
 
 Whatever works for you is what you should do! 
 
-The one thing I'd strongly recommend is to use something that can give you actual reminders to go along with these files. Please consider putting tasks into your calendar as events, using something like [OmniFocus](https://www.omnigroup.com/omnifocus) or [Todoist](https://todoist.com/home), or something else that can reach across time and say ["don't forget to wind your watch"](https://youtu.be/aK1gnNTVxvc?t=168).  
+The one thing I'd strongly recommend is using some tech tool that can give you proactive time-based reminders to go along with these files. Please consider putting tasks into your calendar as events, using something like [OmniFocus](https://www.omnigroup.com/omnifocus) or [Todoist](https://todoist.com/home), or something else that can reach across time and say ["don't forget to wind your watch"](https://youtu.be/aK1gnNTVxvc?t=168).  
 
 With these files themselves, what works for me is leaving each month's file open in a window while I do related work on my computer. That way I'll occasionally glance over at the file and be reminded of what I've told myself to focus on, which makes it easier to reevaluate whether I should change what I'm doing. If I'm going to be walking around a lot away from my computer, I'll make a little [hipster PDA](http://www.43folders.com/2004/09/03/introducing-the-hipster-pda) out of some scrap paper folded up as a [one-shot zine](https://www.rookiemag.com/2012/05/how-to-make-a-zine/).  
 
