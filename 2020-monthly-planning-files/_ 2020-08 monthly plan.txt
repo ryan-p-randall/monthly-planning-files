@@ -4,11 +4,15 @@ dateCreated: 2019-12-02
 tags: 2020 august monthly plan  
 status:  
 itemStatusOptions:  
-  - @bigWeek(optionalInfo)  
+  - @weeklyGoal(optionalInfo)  
+  - @monthlyGoal(optionalInfo)  
   - @deferred(dateDeferredUntil)  
   - @done(optionalInfo)  
+  - @internalInterruption(optionalInfo)  
+  - @externalInterruption(optionalInfo)  
   - @important(optionalInfo)  
   - @skipped(optionalInfo)  
+  - @cancelled(optionalInfo)  
   - @someday(optionalInfo)  
   - @started(dateStarted)  
   - @urgent(optionalInfo)  
@@ -19,10 +23,11 @@ itemStatusOptions:
 
 ## File Links  
 
-[[__ 2019 yearly plan]]  
-[[_ 2020 yearly plan]]
-[[_ 2020-07 monthly plan]]  
-[[_ 2020-09 monthly plan]]  
+[[2019-monthly-planning-files/__ 2019 yearly plan]]  
+[[2020-monthly-planning-files/_ 2020 yearly plan]]
+[[2020-monthly-planning-files/_ 2020-07 monthly plan]]  
+[[2020-monthly-planning-files/_ 2020-09 monthly plan]]  
+[[2020-monthly-planning-files/time log template]]  
 
 ## Month Overview  
 
@@ -37,7 +42,7 @@ itemStatusOptions:
 
 ### Events  
 
-## Week32 (2020-08-03--2020-08-09)  
+## 2020-W32 (2020-08-03--2020-08-09)  
 
 ### Goals  
 
@@ -182,9 +187,9 @@ itemStatusOptions:
 
 -  
 
-### Week32 (2020-08-03--2020-08-09) Weekly Holdovers  
+### 2020-W32 (2020-08-03--2020-08-09) Weekly Holdovers  
 
-## Week33 (2020-08-10--2020-08-16)  
+## 2020-W33 (2020-08-10--2020-08-16)  
 
 ### Goals  
 
@@ -329,9 +334,9 @@ itemStatusOptions:
 
 -  
 
-### Week33 (2020-08-10--2020-08-16) Weekly Holdovers  
+### 2020-W33 (2020-08-10--2020-08-16) Weekly Holdovers  
 
-## Week34 (2020-08-17--2020-08-23)  
+## 2020-W34 (2020-08-17--2020-08-23)  
 
 ### Goals  
 
@@ -476,9 +481,9 @@ itemStatusOptions:
 
 -  
 
-### Week34 (2020-08-17--2020-08-23) Weekly Holdovers  
+### 2020-W34 (2020-08-17--2020-08-23) Weekly Holdovers  
 
-## Week35 (2020-08-24--2020-08-30)  
+## 2020-W35 (2020-08-24--2020-08-30)  
 
 ### Goals  
 
@@ -623,4 +628,4 @@ itemStatusOptions:
 
 -  
 
-### Week35 (2020-08-24--2020-08-30) Weekly Holdovers  
+### 2020-W35 (2020-08-24--2020-08-30) Weekly Holdovers  

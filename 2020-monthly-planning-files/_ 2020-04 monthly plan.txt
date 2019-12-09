@@ -4,11 +4,15 @@ dateCreated: 2019-12-02
 tags: 2020 april monthly plan  
 status:  
 itemStatusOptions:  
-  - @bigWeek(optionalInfo)  
+  - @weeklyGoal(optionalInfo)  
+  - @monthlyGoal(optionalInfo)  
   - @deferred(dateDeferredUntil)  
   - @done(optionalInfo)  
+  - @internalInterruption(optionalInfo)  
+  - @externalInterruption(optionalInfo)  
   - @important(optionalInfo)  
   - @skipped(optionalInfo)  
+  - @cancelled(optionalInfo)  
   - @someday(optionalInfo)  
   - @started(dateStarted)  
   - @urgent(optionalInfo)  
@@ -19,10 +23,11 @@ itemStatusOptions:
 
 ## File Links  
 
-[[__ 2019 yearly plan]]  
-[[_ 2020 yearly plan]]
-[[_ 2020-03 monthly plan]]  
-[[_ 2020-05 monthly plan]]  
+[[2019-monthly-planning-files/__ 2019 yearly plan]]  
+[[2020-monthly-planning-files/_ 2020 yearly plan]]
+[[2020-monthly-planning-files/_ 2020-03 monthly plan]]  
+[[2020-monthly-planning-files/_ 2020-05 monthly plan]]  
+[[2020-monthly-planning-files/time log template]]  
 
 ## Month Overview  
 
@@ -37,7 +42,7 @@ itemStatusOptions:
 
 ### Events  
 
-## Week14 (2020-03-30--2020-04-05)  
+## 2020-W14 (2020-03-30--2020-04-05)  
 
 ### Goals  
 
@@ -182,9 +187,9 @@ itemStatusOptions:
 
 -  
 
-### Week14 (2020-03-30--2020-04-05) Weekly Holdovers  
+### 2020-W14 (2020-03-30--2020-04-05) Weekly Holdovers  
 
-## Week15 (2020-04-06--2020-04-12)  
+## 2020-W15 (2020-04-06--2020-04-12)  
 
 ### Goals  
 
@@ -329,9 +334,9 @@ itemStatusOptions:
 
 -  
 
-### Week15 (2020-04-06--2020-04-12) Weekly Holdovers  
+### 2020-W15 (2020-04-06--2020-04-12) Weekly Holdovers  
 
-## Week16 (2020-04-13--2020-04-19)  
+## 2020-W16 (2020-04-13--2020-04-19)  
 
 ### Goals  
 
@@ -476,9 +481,9 @@ itemStatusOptions:
 
 -  
 
-### Week16 (2020-04-13--2020-04-19) Weekly Holdovers  
+### 2020-W16 (2020-04-13--2020-04-19) Weekly Holdovers  
 
-## Week17 (2020-04-20--2020-04-26)  
+## 2020-W17 (2020-04-20--2020-04-26)  
 
 ### Goals  
 
@@ -623,9 +628,9 @@ itemStatusOptions:
 
 -  
 
-### Week17 (2020-04-20--2020-04-26) Weekly Holdovers  
+### 2020-W17 (2020-04-20--2020-04-26) Weekly Holdovers  
 
-## Week18 (2020-04-27--2020-05-03)  
+## 2020-W18 (2020-04-27--2020-05-03)  
 
 ### Goals  
 
@@ -770,4 +775,4 @@ itemStatusOptions:
 
 -  
 
-### Week18 (2020-04-27--2020-05-03) Weekly Holdovers  
+### 2020-W18 (2020-04-27--2020-05-03) Weekly Holdovers  

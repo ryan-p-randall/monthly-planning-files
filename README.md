@@ -2,7 +2,11 @@
 
 Text files with [markdown](https://www.markdownguide.org/getting-started/) formatting to help plan &amp; log whatever it is you do. A lo-fi **attention** management system to complement your **task** management system.  
 
-![keanu reeves as ted telling bill 'So after the report we can't forget to do this otherwise it won't happen'](/images/can't-forget.gif)
+These files blend the basic system of a [bullet journal](https://bulletjournal.com/pages/learn) with elements of [the pomodoro technique](https://francescocirillo.com/products/the-pomodoro-technique-sheets), then add all the coolness of [plain text](http://bettermess.com/a-plain-text-primer/) files edited in $yourFavoriteTextEditor.  
+
+I've been refining these monthly planning text files since 2013, always in a text editor that syncs  what's on my phone and my computer. This setup works quite well, since it supplies two important things a paper planner lacks: 1. text tools like "search in project" or batch "find & replace" and 2. the ability to not be left behind in a coffeeshop or bus.  
+
+![keanu reeves as ted telling bill 'So after the report we can't forget to do this otherwise it won't happen'](/images/can't-forget.gif)  
 
 ## table of contents  
 
@@ -27,10 +31,6 @@ Text files with [markdown](https://www.markdownguide.org/getting-started/) forma
 
 ## recommended tools  
 
-I've been using variations of these monthly planning text files since 2013, always in a text editor that syncs  what's on my phone and my computer. This setup works quite well, since it supplies two important things a paper planner lacks: 1. text tools like "search in project" or batch "find & replace" and 2. the ability to not be left behind in a coffeeshop or bus.  
-
-Put differently, these files blend the basic system of a [bullet journal](https://bulletjournal.com/pages/learn) with all the coolness of [plain text](http://bettermess.com/a-plain-text-primer/) files edited in $yourFavoriteTextEditor.  
-
 If you don't already have a favorite text editor, I'd recommend [Atom](http://atom.io). It works on Mac, PC, and Linux and is highly extendable and customizable.  
 
 If you want an app that's more streamlined, on Mac you could try [nvALT](https://brettterpstra.com/projects/nvalt/) or the forthcoming [nvULTRA](https://brettterpstra.com/2019/04/10/codename-nvultra/). On PC you could try [ResophNotes](https://www.resoph.com/ResophNotes/Welcome.html). On Linux you could do just about anything your heart desires, up to and including using [nvPy](https://github.com/cpbotha/nvpy).  
@@ -39,7 +39,7 @@ If you want an app that's more streamlined, on Mac you could try [nvALT](https:/
 
 If you *do* use Atom, consider installing and befriending these packages:  
   - [Toggle Markdown Task](https://atom.io/packages/toggle-markdown-task), which lets you mark tasks done  
-  - [markdown-folding](https://atom.io/packages/markdown-folding), which folds lines of text at different heading levels, all of which are marked with one or more `#`. With it, you can fold lines at the week and day level in these files, among others.  
+  - [markdown-folding](https://atom.io/packages/markdown-folding), which folds lines of text at different heading levels, all of which are marked with one or more `#`. It lets you fold lines at the week and day level in these files, as well as any other headings.  
   - [language-markdown](https://atom.io/packages/language-markdown), which is an alternative for the built-in `language-gfm` that adds extra things for lists, including a very satisfying greyed-out effect when you've marked a task done by making its `[ ]` box have an `[x]` instead.  
   - [wikilink](https://atom.io/packages/wikilink), which lets you link between notes using the name of the `[[target note]]` surrounded by two brackets. That's right: with the package installed, that `[[target note]]` could let you quickly jump to a separate note named `target note`. These files already include this style link for moving between months or years.  
   - [Tomatimer](https://atom.io/packages/tomatimer), which puts a lightly configurable [pomodoro timer](https://en.wikipedia.org/wiki/Pomodoro_Technique) into Atom's status bar and reminds you to take occasional breaks. The files have the beginnings of a markdown-formatted table for each day in case you're moved to try the [Pomodoro technique](http://baomee.info/pdf/technique/1.pdf) in detail that day.  
@@ -80,7 +80,9 @@ The unordered list (which starts with `- [ ]`) shows you tasks that can be done 
 
 #### task annotations  
 
-I try to annotate each task with one or more tags, each of which contains extra info in parenthesis. The front matter in each file is there to suggest a taxonomy of tags, to simply things for you and your text editor's autocomplete functions. If you want to change them, it's simple to use find & replace in project to swap the ones I wrote with whatever you prefer.  
+I try to mark each task with one or more tags, each of which contains extra info in parenthesis. The front matter in each file is there to suggest a taxonomy of tags, to simply things for you and your text editor's autocomplete functions. If you want to change these tags, it's simple to use find & replace in project to swap the ones I wrote with whatever you prefer.  
+
+A good example of how you might annotate these tags is the two tags reflecting the types of interruptions you'd track with the [Pomodoro Technique](https://wellness.ucsd.edu/CAPS/Documents/tx_forms/koch/pomodoro_handouts/pomodoro_cheat_sheet.pdf). For instance, if you're working on a task but continually find yourself distracted by your own thoughts, you might add `@internalInterruption()` as a tag, then use the annotation for details: `@internalInterruption(worriedAboutBills)` or `@internalInterruption(tooHungryToFocus)`. You can also annotate `@externalInterruption()` to track another type of interruptions: `@externalInterruption(referenceQuestionOutsideMyShift)` or `@externalInterruption(labPartnerCouldn'tRememberProcedures)`.  
 
 ### example of a day  
 
@@ -124,13 +126,17 @@ Since these are ultimately just text files and not actually converted into web p
 
 Below the front matter / metadata section, each file has links to other files in the `[[wikilink]]` format. You can put this type of link anywhere you want in a file.  
 
-I treat the top of the file as a sort of index / breadcrumbs area, and I'll add other wikilinks anywhere else they're relevant. If you use the [wikilink package in Atom](https://atom.io/packages/wikilink) you can also follow these links with simple key commands. I don't often use the included [time log template](time-log-template.txt), but I do find it extremely useful on hectic days or ones where I'm easily distracted than usual.  
+I treat the top of the file as a sort of index / breadcrumbs area, and I add other wikilinks anywhere else they're relevant. If you use the [wikilink package in Atom](https://atom.io/packages/wikilink) you can also follow these links with simple key commands. I don't often use the included [time log template](time-log-template.txt), but I do find it extremely useful on hectic days or ones where I'm more easily distracted than usual.  
+
+__Potential Gotcha:__ If you're not used to thinking about file paths, please pay close attention to them when you use, change, or create wikilinks. I mention this because at the beginning of every year I rename my personal files to add another underscore at the front of the file name, which pushes it further down in the file directory. It takes me 5-10 minutes to use "find and replace in project" to update this change in all the files, which feels like a decent trade-off to make to have the current year's files at the top of the file directory the entire rest of the year. In this collection of starter files, the file paths don't match what I actually do in my own notes. If you find yourself wanting to rename the files to improve how they're sorted in your own system, please remember to also update the wikilink file paths. On the plus side, the only thing that happens when a path is wrong is that you either open the wrong file or start a new, empty file. So the errors aren't destructive, just surprising or jarring at worst.  
 
 #### planning and review  
 
 To prompt regular planning and review—crucial parts of planning that I increasingly overlook the busier I become—these files have multiple prompts for planning and review.  
 
-At the beginning of each month and week there are sections for goals. At the end of each day, there are lines to log what you actually did. In this space I'll often add things like I went for a walk, I read an article I saw shared on social media, or other actions that weren't exactly planned but were still notable. Each week also has a "weekly holdovers" section where you can collect all the things you still think are worth doing and don't want to forget.  
+There is a section for setting goals at the beginning of both each month and each week. At the end of each day, there's an unordered list where you can log what you actually did. Each week also has a "weekly holdovers" section where you can collect all the things you still think are worth doing and don't want to forget, or where you can collect and annotate why you've decided to cancel or postpone certain projects.  
+
+I'll often note things that I did without planning in these various review sections. Things like I went for a walk, I read a specific article I saw shared on social media, or other actions that weren't exactly planned but still worth jotting down. The more you jot down, the more likely you make figuring out patterns in the future, or figuring out which readings you should cite since they helped you come up with an interesting interdisciplinary idea.  
 
 #### conventions and duplication  
 
@@ -150,6 +156,9 @@ These files blend together a lot of strategies & tactics I've picked up from oth
 - [Gina Trapani](https://ginatrapani.org) has a page of [`todo.txt`](http://todotxt.org) apps, as well as a [`todo.txt` format primer](https://github.com/todotxt/todo.txt).  
 - [Dave Seah](https://davidseah.com/productivity-tools/) has a ton of great productivity tools, as well as a blog about refining processes and treating things as an ongoing experiment.  
 - [A Better Mess](http://bettermess.com/start-here/) shares Michael Schechter's attempts to do better work while also being an ADHD mess.  
+- Francesco Cirillo's [Pomodoro Technique](https://francescocirillo.com/pages/pomodoro-technique), particularly tracking interruptions  
+  - Here's a [one-sheet primer](https://wellness.ucsd.edu/CAPS/Documents/tx_forms/koch/pomodoro_handouts/pomodoro_cheat_sheet.pdf)  
+  - Here's the [detailed version](https://web.archive.org/web/20090306080717/http://www.pomodorotechnique.com/resources/cirillo/ThePomodoroTechnique_v1-3.pdf), which is absolutely worth making time to read if you've felt the need to read all this documentation  
 
 ## license  
 

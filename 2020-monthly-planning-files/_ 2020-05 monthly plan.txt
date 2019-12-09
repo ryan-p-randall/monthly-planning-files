@@ -4,11 +4,15 @@ dateCreated: 2019-12-02
 tags: 2020 may monthly plan  
 status:  
 itemStatusOptions:  
-  - @bigWeek(optionalInfo)  
+  - @weeklyGoal(optionalInfo)  
+  - @monthlyGoal(optionalInfo)  
   - @deferred(dateDeferredUntil)  
   - @done(optionalInfo)  
+  - @internalInterruption(optionalInfo)  
+  - @externalInterruption(optionalInfo)  
   - @important(optionalInfo)  
   - @skipped(optionalInfo)  
+  - @cancelled(optionalInfo)  
   - @someday(optionalInfo)  
   - @started(dateStarted)  
   - @urgent(optionalInfo)  
@@ -19,10 +23,11 @@ itemStatusOptions:
 
 ## File Links  
 
-[[__ 2019 yearly plan]]  
-[[_ 2020 yearly plan]]
-[[_ 2020-04 monthly plan]]  
-[[_ 2020-06 monthly plan]]  
+[[2019-monthly-planning-files/__ 2019 yearly plan]]  
+[[2020-monthly-planning-files/_ 2020 yearly plan]]
+[[2020-monthly-planning-files/_ 2020-04 monthly plan]]  
+[[2020-monthly-planning-files/_ 2020-06 monthly plan]]  
+[[2020-monthly-planning-files/time log template]]  
 
 ## Month Overview  
 
@@ -37,7 +42,7 @@ itemStatusOptions:
 
 ### Events  
 
-## Week19 (2020-05-04--2020-05-10)  
+## 2020-W19 (2020-05-04--2020-05-10)  
 
 ### Goals  
 
@@ -182,9 +187,9 @@ itemStatusOptions:
 
 -  
 
-### Week19 (2020-05-04--2020-05-10) Weekly Holdovers  
+### 2020-W19 (2020-05-04--2020-05-10) Weekly Holdovers  
 
-## Week20 (2020-05-11--2020-05-17)  
+## 2020-W20 (2020-05-11--2020-05-17)  
 
 ### Goals  
 
@@ -329,9 +334,9 @@ itemStatusOptions:
 
 -  
 
-### Week20 (2020-05-11--2020-05-17) Weekly Holdovers  
+### 2020-W20 (2020-05-11--2020-05-17) Weekly Holdovers  
 
-## Week21 (2020-05-18--2020-05-24)  
+## 2020-W21 (2020-05-18--2020-05-24)  
 
 ### Goals  
 
@@ -476,9 +481,9 @@ itemStatusOptions:
 
 -  
 
-### Week21 (2020-05-18--2020-05-24) Weekly Holdovers  
+### 2020-W21 (2020-05-18--2020-05-24) Weekly Holdovers  
 
-## Week22 (2020-05-25--2020-05-31)  
+## 2020-W22 (2020-05-25--2020-05-31)  
 
 ### Goals  
 
@@ -623,4 +628,4 @@ itemStatusOptions:
 
 -  
 
-### Week22 (2020-05-25--2020-05-31) Weekly Holdovers  
+### 2020-W22 (2020-05-25--2020-05-31) Weekly Holdovers  

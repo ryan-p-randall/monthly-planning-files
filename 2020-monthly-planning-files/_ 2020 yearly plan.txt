@@ -9,355 +9,355 @@ status: ongoing
 
 | Week | Travel / Obligations | Tasks |  
 |:--- |:--- |:--- |  
-| 2020wk01 | | |  
-| 2020wk02 | | |  
-| 2020wk03 | | |  
-| 2020wk04 | | |  
-| 2020wk05 | | |  
-| 2020wk06 | | |  
-| 2020wk07 | | |  
-| 2020wk08 | | |  
-| 2020wk09 | | |  
-| 2020wk10 | | |  
-| 2020wk11 | | |  
-| 2020wk12 | | |  
-| 2020wk13 | | |  
-| 2020wk14 | | |  
-| 2020wk15 | | |  
-| 2020wk16 | | |  
-| 2020wk17 | | |  
-| 2020wk18 | | |  
-| 2020wk19 | | |  
-| 2020wk20 | | |  
-| 2020wk21 | | |  
-| 2020wk22 | | |  
-| 2020wk23 | | |  
-| 2020wk24 | | |  
-| 2020wk25 | | |  
-| 2020wk26 | | |  
-| 2020wk27 | | |  
-| 2020wk28 | | |  
-| 2020wk29 | | |  
-| 2020wk30 | | |  
-| 2020wk31 | | |  
-| 2020wk32 | | |  
-| 2020wk33 | | |  
-| 2020wk34 | | |  
-| 2020wk35 | | |  
-| 2020wk36 | | |  
-| 2020wk37 | | |  
-| 2020wk38 | | |  
-| 2020wk39 | | |  
-| 2020wk40 | | |  
-| 2020wk41 | | |  
-| 2020wk42 | | |  
-| 2020wk43 | | |  
-| 2020wk44 | | |  
-| 2020wk45 | | |  
-| 2020wk46 | | |  
-| 2020wk47 | | |  
-| 2020wk48 | | |  
-| 2020wk49 | | |  
-| 2020wk50 | | |  
-| 2020wk51 | | |  
-| 2020wk52 | | |  
-| 2020wk53 | | |  
+| 2020-W01 | | |  
+| 2020-W02 | | |  
+| 2020-W03 | | |  
+| 2020-W04 | | |  
+| 2020-W05 | | |  
+| 2020-W06 | | |  
+| 2020-W07 | | |  
+| 2020-W08 | | |  
+| 2020-W09 | | |  
+| 2020-W10 | | |  
+| 2020-W11 | | |  
+| 2020-W12 | | |  
+| 2020-W13 | | |  
+| 2020-W14 | | |  
+| 2020-W15 | | |  
+| 2020-W16 | | |  
+| 2020-W17 | | |  
+| 2020-W18 | | |  
+| 2020-W19 | | |  
+| 2020-W20 | | |  
+| 2020-W21 | | |  
+| 2020-W22 | | |  
+| 2020-W23 | | |  
+| 2020-W24 | | |  
+| 2020-W25 | | |  
+| 2020-W26 | | |  
+| 2020-W27 | | |  
+| 2020-W28 | | |  
+| 2020-W29 | | |  
+| 2020-W30 | | |  
+| 2020-W31 | | |  
+| 2020-W32 | | |  
+| 2020-W33 | | |  
+| 2020-W34 | | |  
+| 2020-W35 | | |  
+| 2020-W36 | | |  
+| 2020-W37 | | |  
+| 2020-W38 | | |  
+| 2020-W39 | | |  
+| 2020-W40 | | |  
+| 2020-W41 | | |  
+| 2020-W42 | | |  
+| 2020-W43 | | |  
+| 2020-W44 | | |  
+| 2020-W45 | | |  
+| 2020-W46 | | |  
+| 2020-W47 | | |  
+| 2020-W48 | | |  
+| 2020-W49 | | |  
+| 2020-W50 | | |  
+| 2020-W51 | | |  
+| 2020-W52 | | |  
+| 2020-W53 | | |  
 
-### 2020wk01  
-
-#### Travel / Obligations  
-
-#### Tasks  
-
-### 2020wk02  
+### 2020-W01  
 
 #### Travel / Obligations  
 
 #### Tasks  
 
-### 2020wk03  
+### 2020-W02  
 
 #### Travel / Obligations  
 
 #### Tasks  
 
-### 2020wk04  
+### 2020-W03  
 
 #### Travel / Obligations  
 
 #### Tasks  
 
-### 2020wk04  
+### 2020-W04  
 
 #### Travel / Obligations  
 
 #### Tasks  
 
-### 2020wk05  
+### 2020-W04  
 
 #### Travel / Obligations  
 
 #### Tasks  
 
-### 2020wk05  
+### 2020-W05  
 
 #### Travel / Obligations  
 
 #### Tasks  
 
-### 2020wk06  
+### 2020-W05  
 
 #### Travel / Obligations  
 
 #### Tasks  
 
-### 2020wk07  
+### 2020-W06  
 
 #### Travel / Obligations  
 
 #### Tasks  
 
-### 2020wk08  
+### 2020-W07  
 
 #### Travel / Obligations  
 
 #### Tasks  
 
-### 2020wk09  
+### 2020-W08  
 
 #### Travel / Obligations  
 
 #### Tasks  
 
-### 2020wk10  
+### 2020-W09  
 
 #### Travel / Obligations  
 
 #### Tasks  
 
-### 2020wk11  
+### 2020-W10  
 
 #### Travel / Obligations  
 
 #### Tasks  
 
-### 2020wk12  
+### 2020-W11  
 
 #### Travel / Obligations  
 
 #### Tasks  
 
-### 2020wk13  
+### 2020-W12  
 
 #### Travel / Obligations  
 
 #### Tasks  
 
-### 2020wk14  
+### 2020-W13  
 
 #### Travel / Obligations  
 
 #### Tasks  
 
-### 2020wk15  
+### 2020-W14  
 
 #### Travel / Obligations  
 
 #### Tasks  
 
-### 2020wk16  
+### 2020-W15  
 
 #### Travel / Obligations  
 
 #### Tasks  
 
-### 2020wk17  
+### 2020-W16  
 
 #### Travel / Obligations  
 
 #### Tasks  
 
-### 2020wk18  
+### 2020-W17  
 
 #### Travel / Obligations  
 
 #### Tasks  
 
-### 2020wk19  
+### 2020-W18  
 
 #### Travel / Obligations  
 
 #### Tasks  
 
-### 2020wk20  
+### 2020-W19  
 
 #### Travel / Obligations  
 
 #### Tasks  
 
-### 2020wk21  
+### 2020-W20  
 
 #### Travel / Obligations  
 
 #### Tasks  
 
-### 2020wk22  
+### 2020-W21  
 
 #### Travel / Obligations  
 
 #### Tasks  
 
-### 2020wk23  
+### 2020-W22  
 
 #### Travel / Obligations  
 
 #### Tasks  
 
-### 2020wk24  
+### 2020-W23  
 
 #### Travel / Obligations  
 
 #### Tasks  
 
-### 2020wk25  
+### 2020-W24  
 
 #### Travel / Obligations  
 
 #### Tasks  
 
-### 2020wk26  
+### 2020-W25  
 
 #### Travel / Obligations  
 
 #### Tasks  
 
-### 2020wk27  
+### 2020-W26  
 
 #### Travel / Obligations  
 
 #### Tasks  
 
-### 2020wk28  
+### 2020-W27  
 
 #### Travel / Obligations  
 
 #### Tasks  
 
-### 2020wk29  
+### 2020-W28  
 
 #### Travel / Obligations  
 
 #### Tasks  
 
-### 2020wk30  
+### 2020-W29  
 
 #### Travel / Obligations  
 
 #### Tasks  
 
-### 2020wk31  
+### 2020-W30  
 
 #### Travel / Obligations  
 
 #### Tasks  
 
-### 2020wk32  
+### 2020-W31  
 
 #### Travel / Obligations  
 
 #### Tasks  
 
-### 2020wk33  
+### 2020-W32  
 
 #### Travel / Obligations  
 
 #### Tasks  
 
-### 2020wk34  
+### 2020-W33  
 
 #### Travel / Obligations  
 
 #### Tasks  
 
-### 2020wk35  
+### 2020-W34  
 
 #### Travel / Obligations  
 
 #### Tasks  
 
-### 2020wk36  
+### 2020-W35  
 
 #### Travel / Obligations  
 
 #### Tasks  
 
-### 2020wk37  
+### 2020-W36  
 
 #### Travel / Obligations  
 
 #### Tasks  
 
-### 2020wk38  
+### 2020-W37  
 
 #### Travel / Obligations  
 
 #### Tasks  
 
-### 2020wk39  
+### 2020-W38  
 
 #### Travel / Obligations  
 
 #### Tasks  
 
-### 2020wk40  
+### 2020-W39  
 
 #### Travel / Obligations  
 
 #### Tasks  
 
-### 2020wk41  
+### 2020-W40  
 
 #### Travel / Obligations  
 
 #### Tasks  
 
-### 2020wk42  
+### 2020-W41  
 
 #### Travel / Obligations  
 
 #### Tasks  
 
-### 2020wk43  
+### 2020-W42  
 
 #### Travel / Obligations  
 
 #### Tasks  
 
-### 2020wk44  
+### 2020-W43  
 
 #### Travel / Obligations  
 
 #### Tasks  
 
-### 2020wk45  
+### 2020-W44  
 
 #### Travel / Obligations  
 
 #### Tasks  
 
-### 2020wk46  
+### 2020-W45  
 
 #### Travel / Obligations  
 
 #### Tasks  
 
-### 2020wk47  
+### 2020-W46  
 
 #### Travel / Obligations  
 
 #### Tasks  
 
-### 2020wk48  
+### 2020-W47  
+
+#### Travel / Obligations  
+
+#### Tasks  
+
+### 2020-W48  
 
 #### Travel / Obligations  
 
@@ -369,25 +369,25 @@ status: ongoing
 
 #### Tasks  
 
-### 2020wk50  
+### 2020-W50  
 
 #### Travel / Obligations  
 
 #### Tasks  
 
-### 2020wk51  
+### 2020-W51  
 
 #### Travel / Obligations  
 
 #### Tasks  
 
-### 2020wk52  
+### 2020-W52  
 
 #### Travel / Obligations  
 
 #### Tasks  
 
-### 2020wk53  
+### 2020-W53  
 
 #### Travel / Obligations  
 

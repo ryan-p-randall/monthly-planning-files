@@ -4,11 +4,15 @@ dateCreated: 2019-12-02
 tags: 2020 january monthly plan  
 status:  
 itemStatusOptions:  
-  - @bigWeek(optionalInfo)  
+  - @weeklyGoal(optionalInfo)  
+  - @monthlyGoal(optionalInfo)  
   - @deferred(dateDeferredUntil)  
   - @done(optionalInfo)  
+  - @internalInterruption(optionalInfo)  
+  - @externalInterruption(optionalInfo)  
   - @important(optionalInfo)  
   - @skipped(optionalInfo)  
+  - @cancelled(optionalInfo)  
   - @someday(optionalInfo)  
   - @started(dateStarted)  
   - @urgent(optionalInfo)  
@@ -19,10 +23,11 @@ itemStatusOptions:
 
 ## File Links  
 
-[[__ 2020 yearly plan]]  
-[[_ 2019 yearly plan]]
-[[__ 2019-12 monthly plan]]  
-[[_ 2020-02 monthly plan]]  
+[[2019-monthly-planning-files/__ 2019-01 monthly plan]]  
+[[2020-monthly-planning-files/_ 2020 yearly plan]]  
+[[2019-monthly-planning-files/__ 2019-01 monthly plan]]  
+[[2020-monthly-planning-files/_ 2020-02 monthly plan]]  
+[[2020-monthly-planning-files/time log template]]  
 
 ## Month Overview  
 
@@ -37,7 +42,7 @@ itemStatusOptions:
 
 ### Events  
 
-## Week01 (2019-12-30--2019-01-05)  
+## 2020-W01 (2019-12-30--2019-01-05)  
 
 ### Goals  
 
@@ -182,9 +187,9 @@ itemStatusOptions:
 
 -  
 
-### Week01 (2018-12-31--2020-01-05) Weekly Holdovers  
+### 2020-W01 (2018-12-31--2020-01-05) Weekly Holdovers  
 
-## Week02 (2020-01-06--2020-01-12)  
+## 2020-W02 (2020-01-06--2020-01-12)  
 
 ### Goals  
 
@@ -329,9 +334,9 @@ itemStatusOptions:
 
 -  
 
-### Week02 (2020-01-06--2020-01-12) Weekly Holdovers  
+### 2020-W02 (2020-01-06--2020-01-12) Weekly Holdovers  
 
-## Week03 (2020-01-13--2020-01-19)  
+## 2020-W03 (2020-01-13--2020-01-19)  
 
 ### Goals  
 
@@ -476,9 +481,9 @@ itemStatusOptions:
 
 -  
 
-### Week03 (2020-01-13--2020-01-19) Weekly Holdovers  
+### 2020-W03 (2020-01-13--2020-01-19) Weekly Holdovers  
 
-## Week04 (2020-01-20--2020-01-26)  
+## 2020-W04 (2020-01-20--2020-01-26)  
 
 ### Goals  
 
@@ -623,9 +628,9 @@ itemStatusOptions:
 
 -  
 
-### Week04 (2020-01-20--2020-01-26) Weekly Holdovers  
+### 2020-W04 (2020-01-20--2020-01-26) Weekly Holdovers  
 
-## Week05 (2020-01-27--2020-02-02)  
+## 2020-W05 (2020-01-27--2020-02-02)  
 
 ### Goals  
 
@@ -770,4 +775,4 @@ itemStatusOptions:
 
 -  
 
-### Week05 (2020-01-27--2020-02-02) Weekly Holdovers  
+### 2020-W05 (2020-01-27--2020-02-02) Weekly Holdovers  

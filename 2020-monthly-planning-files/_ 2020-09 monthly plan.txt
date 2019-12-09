@@ -4,11 +4,15 @@ dateCreated: 2019-12-02
 tags: 2020 september monthly plan  
 status:  
 itemStatusOptions:  
-  - @bigWeek(optionalInfo)  
+  - @weeklyGoal(optionalInfo)  
+  - @monthlyGoal(optionalInfo)  
   - @deferred(dateDeferredUntil)  
   - @done(optionalInfo)  
+  - @internalInterruption(optionalInfo)  
+  - @externalInterruption(optionalInfo)  
   - @important(optionalInfo)  
   - @skipped(optionalInfo)  
+  - @cancelled(optionalInfo)  
   - @someday(optionalInfo)  
   - @started(dateStarted)  
   - @urgent(optionalInfo)  
@@ -19,10 +23,11 @@ itemStatusOptions:
 
 ## File Links  
 
-[[__ 2019 yearly plan]]  
-[[_ 2020 yearly plan]]
-[[_ 2020-08 monthly plan]]  
-[[_ 2020-10 monthly plan]]  
+[[2019-monthly-planning-files/__ 2019 yearly plan]]  
+[[2020-monthly-planning-files/_ 2020 yearly plan]]
+[[2020-monthly-planning-files/_ 2020-08 monthly plan]]  
+[[2020-monthly-planning-files/_ 2020-10 monthly plan]]  
+[[2020-monthly-planning-files/time log template]]  
 
 ## Month Overview  
 
@@ -37,7 +42,7 @@ itemStatusOptions:
 
 ### Events  
 
-## Week36 (2020-08-31--2020-09-06)  
+## 2020-W36 (2020-08-31--2020-09-06)  
 
 ### Goals  
 
@@ -182,9 +187,9 @@ itemStatusOptions:
 
 -  
 
-### Week36 (2020-08-31--2020-09-06) Weekly Holdovers  
+### 2020-W36 (2020-08-31--2020-09-06) Weekly Holdovers  
 
-## Week37 (2020-09-07--2020-09-13)  
+## 2020-W37 (2020-09-07--2020-09-13)  
 
 ### Goals  
 
@@ -329,9 +334,9 @@ itemStatusOptions:
 
 -  
 
-### Week37 (2020-09-07--2020-09-13) Weekly Holdovers  
+### 2020-W37 (2020-09-07--2020-09-13) Weekly Holdovers  
 
-## Week38 (2020-09-14--2020-09-20)  
+## 2020-W38 (2020-09-14--2020-09-20)  
 
 ### Goals  
 
@@ -476,9 +481,9 @@ itemStatusOptions:
 
 -  
 
-### Week38 (2020-09-14--2020-09-20) Weekly Holdovers  
+### 2020-W38 (2020-09-14--2020-09-20) Weekly Holdovers  
 
-## Week39 (2020-09-21--2020-09-27)  
+## 2020-W39 (2020-09-21--2020-09-27)  
 
 ### Goals  
 
@@ -623,9 +628,9 @@ itemStatusOptions:
 
 -  
 
-### Week39 (2020-09-21--2020-09-27) Weekly Holdovers  
+### 2020-W39 (2020-09-21--2020-09-27) Weekly Holdovers  
 
-## Week40 (2020-09-28--2020-10-04)  
+## 2020-W40 (2020-09-28--2020-10-04)  
 
 ### Goals  
 
@@ -770,4 +775,4 @@ itemStatusOptions:
 
 -  
 
-### Week40 (2020-09-28--2020-10-04) Weekly Holdovers  
+### 2020-W40 (2020-09-28--2020-10-04) Weekly Holdovers  

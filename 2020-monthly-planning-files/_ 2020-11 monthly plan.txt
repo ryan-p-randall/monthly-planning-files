@@ -4,11 +4,15 @@ dateCreated: 2019-12-02
 tags: 2020 november monthly plan  
 status:  
 itemStatusOptions:  
-  - @bigWeek(optionalInfo)  
+  - @weeklyGoal(optionalInfo)  
+  - @monthlyGoal(optionalInfo)  
   - @deferred(dateDeferredUntil)  
   - @done(optionalInfo)  
+  - @internalInterruption(optionalInfo)  
+  - @externalInterruption(optionalInfo)  
   - @important(optionalInfo)  
   - @skipped(optionalInfo)  
+  - @cancelled(optionalInfo)  
   - @someday(optionalInfo)  
   - @started(dateStarted)  
   - @urgent(optionalInfo)  
@@ -19,10 +23,11 @@ itemStatusOptions:
 
 ## File Links  
 
-[[__ 2019 yearly plan]]  
-[[_ 2020 yearly plan]]
-[[_ 2020-10 monthly plan]]  
-[[_ 2020-12 monthly plan]]  
+[[2019-monthly-planning-files/__ 2019 yearly plan]]  
+[[2020-monthly-planning-files/_ 2020 yearly plan]]
+[[2020-monthly-planning-files/_ 2020-10 monthly plan]]  
+[[2020-monthly-planning-files/_ 2020-12 monthly plan]]  
+[[2020-monthly-planning-files/time log template]]  
 
 ## Month Overview  
 
@@ -37,7 +42,7 @@ itemStatusOptions:
 
 ### Events  
 
-## Week45 (2020-11-02--2020-11-08)  
+## 2020-W45 (2020-11-02--2020-11-08)  
 
 ### Goals  
 
@@ -182,9 +187,9 @@ itemStatusOptions:
 
 -  
 
-### Week45 (2020-11-02--2020-11-08) Weekly Holdovers  
+### 2020-W45 (2020-11-02--2020-11-08) Weekly Holdovers  
 
-## Week46 (2020-11-09--2020-11-15)  
+## 2020-W46 (2020-11-09--2020-11-15)  
 
 ### Goals  
 
@@ -329,9 +334,9 @@ itemStatusOptions:
 
 -  
 
-### Week46 (2020-11-09--2020-11-15) Weekly Holdovers  
+### 2020-W46 (2020-11-09--2020-11-15) Weekly Holdovers  
 
-## Week47 (2020-11-16--2020-11-22)  
+## 2020-W47 (2020-11-16--2020-11-22)  
 
 ### Goals  
 
@@ -476,9 +481,9 @@ itemStatusOptions:
 
 -  
 
-### Week47 (2020-11-16--2020-11-22) Weekly Holdovers  
+### 2020-W47 (2020-11-16--2020-11-22) Weekly Holdovers  
 
-## Week48 (2020-11-23--2020-11-29)  
+## 2020-W48 (2020-11-23--2020-11-29)  
 
 ### Goals  
 
@@ -623,4 +628,4 @@ itemStatusOptions:
 
 -  
 
-### Week48 (2020-11-23--2020-11-29) Weekly Holdovers  
+### 2020-W48 (2020-11-23--2020-11-29) Weekly Holdovers  

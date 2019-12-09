@@ -1,5 +1,5 @@
 ---  
-title: template time log qqq      
+title: time log template.txt  
 ---   
  
 # timelog  
@@ -96,5 +96,3 @@ title: template time log qqq
 | i | what/where | w |   
 | i | what/where | w |   
 
-
-qqqqq
