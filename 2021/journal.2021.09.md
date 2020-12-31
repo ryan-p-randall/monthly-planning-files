@@ -31,9 +31,9 @@
 
 ### 2021-09-06 Monday  
 
-- priority01  
-- priority02  
-- priority03  
+- [ ] priority01  
+- [ ] priority02  
+- [ ] priority03  
 
 <!-- -->  
 
@@ -55,9 +55,9 @@
 
 ### 2021-09-07 Tuesday  
 
-- priority01  
-- priority02  
-- priority03  
+- [ ] priority01  
+- [ ] priority02  
+- [ ] priority03  
 
 <!-- -->  
 
@@ -79,9 +79,9 @@
 
 ### 2021-09-08 Wednesday  
 
-- priority01  
-- priority02  
-- priority03  
+- [ ] priority01  
+- [ ] priority02  
+- [ ] priority03  
 
 <!-- -->  
 
@@ -103,9 +103,9 @@
 
 ### 2021-09-09 Thursday  
 
-- priority01  
-- priority02  
-- priority03  
+- [ ] priority01  
+- [ ] priority02  
+- [ ] priority03  
 
 <!-- -->  
 
@@ -127,9 +127,9 @@
 
 ### 2021-09-10 Friday  
 
-- priority01  
-- priority02  
-- priority03  
+- [ ] priority01  
+- [ ] priority02  
+- [ ] priority03  
 
 <!-- -->  
 
@@ -151,9 +151,9 @@
 
 ### 2021-09-11 Saturday  
 
-- priority01  
-- priority02  
-- priority03  
+- [ ] priority01  
+- [ ] priority02  
+- [ ] priority03  
 
 <!-- -->  
 
@@ -175,9 +175,9 @@
 
 ### 2021-09-12 Sunday  
 
-- priority01  
-- priority02  
-- priority03  
+- [ ] priority01  
+- [ ] priority02  
+- [ ] priority03  
 
 <!-- -->  
 
@@ -206,9 +206,9 @@
 
 ### 2021-09-13 Monday  
 
-- priority01  
-- priority02  
-- priority03  
+- [ ] priority01  
+- [ ] priority02  
+- [ ] priority03  
 
 <!-- -->  
 
@@ -230,9 +230,9 @@
 
 ### 2021-09-14 Tuesday  
 
-- priority01  
-- priority02  
-- priority03  
+- [ ] priority01  
+- [ ] priority02  
+- [ ] priority03  
 
 <!-- -->  
 
@@ -254,9 +254,9 @@
 
 ### 2021-09-15 Wednesday  
 
-- priority01  
-- priority02  
-- priority03  
+- [ ] priority01  
+- [ ] priority02  
+- [ ] priority03  
 
 <!-- -->  
 
@@ -278,9 +278,9 @@
 
 ### 2021-09-16 Thursday  
 
-- priority01  
-- priority02  
-- priority03  
+- [ ] priority01  
+- [ ] priority02  
+- [ ] priority03  
 
 <!-- -->  
 
@@ -302,9 +302,9 @@
 
 ### 2021-09-17 Friday  
 
-- priority01  
-- priority02  
-- priority03  
+- [ ] priority01  
+- [ ] priority02  
+- [ ] priority03  
 
 <!-- -->  
 
@@ -326,9 +326,9 @@
 
 ### 2021-09-18 Saturday  
 
-- priority01  
-- priority02  
-- priority03  
+- [ ] priority01  
+- [ ] priority02  
+- [ ] priority03  
 
 <!-- -->  
 
@@ -350,9 +350,9 @@
 
 ### 2021-09-19 Sunday  
 
-- priority01  
-- priority02  
-- priority03  
+- [ ] priority01  
+- [ ] priority02  
+- [ ] priority03  
 
 <!-- -->  
 
@@ -381,9 +381,9 @@
 
 ### 2021-09-20 Monday  
 
-- priority01  
-- priority02  
-- priority03  
+- [ ] priority01  
+- [ ] priority02  
+- [ ] priority03  
 
 <!-- -->  
 
@@ -405,9 +405,9 @@
 
 ### 2021-09-21 Tuesday  
 
-- priority01  
-- priority02  
-- priority03  
+- [ ] priority01  
+- [ ] priority02  
+- [ ] priority03  
 
 <!-- -->  
 
@@ -429,9 +429,9 @@
 
 ### 2021-09-22 Wednesday  
 
-- priority01  
-- priority02  
-- priority03  
+- [ ] priority01  
+- [ ] priority02  
+- [ ] priority03  
 
 <!-- -->  
 
@@ -453,9 +453,9 @@
 
 ### 2021-09-23 Thursday  
 
-- priority01  
-- priority02  
-- priority03  
+- [ ] priority01  
+- [ ] priority02  
+- [ ] priority03  
 
 <!-- -->  
 
@@ -477,9 +477,9 @@
 
 ### 2021-09-24 Friday  
 
-- priority01  
-- priority02  
-- priority03  
+- [ ] priority01  
+- [ ] priority02  
+- [ ] priority03  
 
 <!-- -->  
 
@@ -501,9 +501,9 @@
 
 ### 2021-09-25 Saturday  
 
-- priority01  
-- priority02  
-- priority03  
+- [ ] priority01  
+- [ ] priority02  
+- [ ] priority03  
 
 <!-- -->  
 
@@ -525,9 +525,9 @@
 
 ### 2021-09-26 Sunday  
 
-- priority01  
-- priority02  
-- priority03  
+- [ ] priority01  
+- [ ] priority02  
+- [ ] priority03  
 
 <!-- -->  
 
@@ -556,9 +556,9 @@
 
 ### 2021-09-27 Monday  
 
-- priority01  
-- priority02  
-- priority03  
+- [ ] priority01  
+- [ ] priority02  
+- [ ] priority03  
 
 <!-- -->  
 
@@ -580,9 +580,9 @@
 
 ### 2021-09-28 Tuesday  
 
-- priority01  
-- priority02  
-- priority03  
+- [ ] priority01  
+- [ ] priority02  
+- [ ] priority03  
 
 <!-- -->  
 
@@ -604,9 +604,9 @@
 
 ### 2021-09-29 Wednesday  
 
-- priority01  
-- priority02  
-- priority03  
+- [ ] priority01  
+- [ ] priority02  
+- [ ] priority03  
 
 <!-- -->  
 
@@ -628,9 +628,9 @@
 
 ### 2021-09-30 Thursday  
 
-- priority01  
-- priority02  
-- priority03  
+- [ ] priority01  
+- [ ] priority02  
+- [ ] priority03  
 
 <!-- -->  
 
@@ -652,9 +652,9 @@
 
 ### 2021-10-01 Friday  
 
-- priority01  
-- priority02  
-- priority03  
+- [ ] priority01  
+- [ ] priority02  
+- [ ] priority03  
 
 <!-- -->  
 
@@ -676,9 +676,9 @@
 
 ### 2021-10-02 Saturday  
 
-- priority01  
-- priority02  
-- priority03  
+- [ ] priority01  
+- [ ] priority02  
+- [ ] priority03  
 
 <!-- -->  
 
@@ -700,9 +700,9 @@
 
 ### 2021-10-03 Sunday  
 
-- priority01  
-- priority02  
-- priority03  
+- [ ] priority01  
+- [ ] priority02  
+- [ ] priority03  
 
 <!-- -->  
 
