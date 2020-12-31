@@ -3,6 +3,15 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and this project adheres to [Semantic Versioning](https://semver.org).  
 
+## 2.2 - 2020-12-31  
+
+### Added  
+- Added files for 2021  
+
+### Changed  
+- Files now are named with [Dendron](https://dendron.so)'s conventions in mind. The biggest change is that they are named with `.` separators instead of `-`.  
+- Documentation updated with Dendron-related info  
+
 ## 2.1 - 2019-12-09  
 
 ### Added  

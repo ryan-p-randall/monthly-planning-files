@@ -11,6 +11,7 @@ I've been refining these monthly planning text files since 2013, always in a tex
 ## table of contents  
 
 - [recommended tools](#recommended-tools)  
+  - [recommended packages for vscode](#recommended-packages-for-vscode)  
   - [recommended packages for atom](#recommended-packages-for-atom)  
   - [phone text editors](#phone-text-editors)  
 - [recommended use](#recommended-use)  
@@ -31,13 +32,43 @@ I've been refining these monthly planning text files since 2013, always in a tex
 
 ## recommended tools  
 
-If you don't already have a favorite text editor, I'd recommend [Atom](http://atom.io). It works on Mac, PC, and Linux and is highly extendable and customizable.  
+If you don't already have a favorite text editor, I'd recommend [VSCode](https://code.visualstudio.com) or [Atom](http://atom.io). Both work on Mac, PC, and Linux and is highly extendable and customizable. I've used Atom for years, but recently started primarily using VSCode because of the new [Dendron](https://dendron.so) package for taking interconnected notes.  
 
 If you want an app that's more streamlined, on Mac you could try [nvALT](https://brettterpstra.com/projects/nvalt/) or the forthcoming [nvULTRA](https://brettterpstra.com/2019/04/10/codename-nvultra/). On PC you could try [ResophNotes](https://www.resoph.com/ResophNotes/Welcome.html). On Linux you could do just about anything your heart desires, up to and including using [nvPy](https://github.com/cpbotha/nvpy).  
 
+### recommended packages for vscode  
+
+If you use VSCode, consider installing and befriending these packages:  
+  - [Dendron](https://dendron.so), which has many features for making interconnected notes more easily  
+  - [Markdown Todo](https://github.com/fabiospampinato/vscode-markdown-todo), which lets you "check off" tasks with a keyboard shortcut  
+  - [VSCode TODO Highlight](https://github.com/jgclark/vscode-todo-highlight), which lets you highlight keywords or other patterns.  
+
+If you use the [VSCode TODO Highlight](https://github.com/jgclark/vscode-todo-highlight) package, you can extend its highlighting patterns. Below are a couple simple RegEx patterns I made for it to recognize lines with patterns like `[x]`, `[>]`, or `@urgent` and instead of highlighting with a background color, it applies different colors to the text of those lines. The `"pattern"` line in the first example will find lines with `[x]` and make each whole line look greyed out, and the `"pattern"` line in the second example will find `@urgent` and make each whole line a brighter color. You'd have to add the below lines to the `todohighlight.keywords` sections of your `settings.json` file for them to work—and you can, of course, customize the colors as well. I've gone with colors from Jan T. Sott's [Paraíso Dark](https://github.com/idleberg/atom-paraiso-dark/blob/master/styles/colors.less) theme, which I think work well with Sarah Drasner's [Night Owl](https://github.com/sdras/night-owl-vscode-theme) VSCode theme.  
+
+```
+  "todohighlight.keywords": [
+    {
+        "text": "[x]",
+        "color": "#776e71;",
+        "backgroundColor": "rgba(0,0,0,0);",
+        "regex": {
+            "pattern": "([^\\s])(.*?)\\[x\\].*([^\\s])",
+        },
+    },
+    {
+        "text": "@urgent",
+        "color": "#f99b15;",
+        "backgroundColor": "rgba(0,0,0,0);",
+        "regex": {
+            "pattern": "([^\\s])(.*?)@urgent",
+        },
+    },
+  ]
+```
+
 ### recommended packages for atom  
 
-If you *do* use Atom, consider installing and befriending these packages:  
+If you use Atom, consider installing and befriending these packages:  
   - [Toggle Markdown Task](https://atom.io/packages/toggle-markdown-task), which lets you mark tasks done  
   - [markdown-folding](https://atom.io/packages/markdown-folding), which folds lines of text at different heading levels, all of which are marked with one or more `#`. It lets you fold lines at the week and day level in these files, as well as any other headings.  
   - [language-markdown](https://atom.io/packages/language-markdown), which is an alternative for the built-in `language-gfm` that adds extra things for lists, including a very satisfying greyed-out effect when you've marked a task done by making its `[ ]` box have an `[x]` instead.  
@@ -66,13 +97,15 @@ You got it, friendly invented interlocutor!
 
 ### task lists  
 
-The most basic thing is that each file uses [Github-Flavored Markdown task lists](https://github.github.com/gfm/#task-list-items-extension-). For each day, you have an ordered list of tasks and an unordered lists of tasks. In between, the `<!-- -->` html comment serves both as a visual separator for you and as a programmatic separator for any markdown rendering tools you use. Without it, the unnumbered list of tasks will likely be rendered as a continuation of the previous numbered list of tasks with start & end times.  
+The most basic thing is that each file uses the [Github-Flavored Markdown task lists](https://github.github.com/gfm/#task-list-items-extension-) convention. For each day, you have an ordered list of tasks and an unordered lists of tasks. In between, the `<!-- -->` html comment serves both as a visual separator for you and as a programmatic separator for any markdown rendering tools you use. Without it, the unnumbered list of tasks will likely be rendered as a continuation of the previous numbered list of tasks with start & end times.  
 
 #### tasks to do at certain times  
 
-The ordered list (which starts with `1. [ ]`) shows you tasks that should happen at a particular time & place. I use a `|` to separate the time and the place.  
+The ordered list (which starts with `1. [ ]`) shows you tasks or activities that should happen at a particular time & place. I use a `|` to separate the time and the place.  
 
 Putting timed tasks both helps prompt me to remember when things need to happen, and to actually think through the process of my day. For instance, I'll often add an extra "buffer" task that tell me to leave my office 35 minutes before it's time to work with a class on our other campus.  
+
+I also often use this section for "time blocking" or for logging what I was doing at particular times. As long as each line starts with a number, any Markdown tool should treat the line as part of that list, whether or not you put a `[ ]` check mark in there.  
 
 #### tasks that can be done at any time  
 
@@ -122,11 +155,13 @@ At the top of each file, you've got some basic [YAML](https://yaml.org)-formatte
 
 Since these are ultimately just text files and not actually converted into web pages or anything, it's not important for them to be in YAML format. I've followed that convention to make searchable front matter mostly because I'm used to using [Jekyll](https://jekyllrb.com/), a program for making static websites used by GitHub, GitLab, and a bunch of other sites.  
 
+As of the 2021 files, I'm letting the Dendron package for VSCode control most of the front matter for each file. If you're not using Dendron, you can easily copy & paste useful parts from the 2020 or 2019 files.  
+
 #### wikilinks  
 
 Below the front matter / metadata section, each file has links to other files in the `[[wikilink]]` format. You can put this type of link anywhere you want in a file.  
 
-I treat the top of the file as a sort of index / breadcrumbs area, and I add other wikilinks anywhere else they're relevant. If you use the [wikilink package in Atom](https://atom.io/packages/wikilink) you can also follow these links with simple key commands. I don't often use the included [time log template](time-log-template.txt), but I do find it extremely useful on hectic days or ones where I'm more easily distracted than usual.  
+I treat the top of the file as a sort of index / breadcrumbs area, and I add other wikilinks anywhere else they're relevant. If you use the [wikilink package in Atom](https://atom.io/packages/wikilink), or if you use Dendron in VSCode, you can also follow these links with simple key commands. I don't often use the included [time log template](time-log-template.txt), but I do find it extremely useful on hectic days or ones where I'm more easily distracted than usual.  
 
 __Potential Gotcha:__ If you're not used to thinking about file paths, please pay close attention to them when you use, change, or create wikilinks. I mention this because at the beginning of every year I rename my personal files to add another underscore at the front of the file name, which pushes it further down in the file directory. It takes me 5-10 minutes to use "find and replace in project" to update this change in all the files, which feels like a decent trade-off to make to have the current year's files at the top of the file directory the entire rest of the year. In this collection of starter files, the file paths don't match what I actually do in my own notes. If you find yourself wanting to rename the files to improve how they're sorted in your own system, please remember to also update the wikilink file paths. On the plus side, the only thing that happens when a path is wrong is that you either open the wrong file or start a new, empty file. So the errors aren't destructive, just surprising or jarring at worst.  
 
@@ -152,6 +187,7 @@ Even though most people use `.md` for markdown-formatted files, I prefer to have
 
 These files blend together a lot of strategies & tactics I've picked up from other people. Here's a link to a few of them; I'll add more as I recognize where things came from.  
 
+- [Bullet Journal](http://web.archive.org/web/20150502033040/http://www.bulletjournal.com/) conventions & patterns are super useful. Ryder Carroll's book on his method is also very helpful.  
 - [Back to Work](http://5by5.tv/b2w) is Merlin Mann & Dan Benjamin's podcast. In particular, their [episodes on Getting Things Done](http://5by5.tv/b2w/95) helped me think about my processes.  
 - [Gina Trapani](https://ginatrapani.org) has a page of [`todo.txt`](http://todotxt.org) apps, as well as a [`todo.txt` format primer](https://github.com/todotxt/todo.txt).  
 - [Dave Seah](https://davidseah.com/productivity-tools/) has a ton of great productivity tools, as well as a blog about refining processes and treating things as an ongoing experiment.  
