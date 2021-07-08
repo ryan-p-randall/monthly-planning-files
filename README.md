@@ -41,7 +41,8 @@ If you want an app that's more streamlined, on Mac you could try [nvALT](https:/
 If you use VSCode, consider installing and befriending these packages:  
   - [Dendron](https://dendron.so), which has many features for making interconnected notes more easily  
   - [Markdown Todo](https://github.com/fabiospampinato/vscode-markdown-todo), which lets you "check off" tasks with a keyboard shortcut  
-  - [VSCode TODO Highlight](https://github.com/jgclark/vscode-todo-highlight), which lets you highlight keywords or other patterns.  
+  - [Todo Tree](https://github.com/Gruntfuggly/todo-tree), which lets you add customizable tags to tasks, plus see them all in a dedicated pane  
+  - [VSCode TODO Highlight](https://github.com/jgclark/vscode-todo-highlight), which lets you highlight keywords or other patterns  
 
 If you use the [VSCode TODO Highlight](https://github.com/jgclark/vscode-todo-highlight) package, you can extend its highlighting patterns. Below are a couple simple RegEx patterns I made for it to recognize lines with patterns like `[x]`, `[>]`, or `@urgent` and instead of highlighting with a background color, it applies different colors to the text of those lines. The `"pattern"` line in the first example will find lines with `[x]` and make each whole line look greyed out, and the `"pattern"` line in the second example will find `@urgent` and make each whole line a brighter color. You'd have to add the below lines to the `todohighlight.keywords` sections of your `settings.json` file for them to work—and you can, of course, customize the colors as well. I've gone with colors from Jan T. Sott's [Paraíso Dark](https://github.com/idleberg/atom-paraiso-dark/blob/master/styles/colors.less) theme, which I think work well with Sarah Drasner's [Night Owl](https://github.com/sdras/night-owl-vscode-theme) VSCode theme.  
 
@@ -163,7 +164,7 @@ Below the front matter / metadata section, each file has links to other files in
 
 I treat the top of the file as a sort of index / breadcrumbs area, and I add other wikilinks anywhere else they're relevant. If you use the [wikilink package in Atom](https://atom.io/packages/wikilink), or if you use Dendron in VSCode, you can also follow these links with simple key commands. I don't often use the included [time log template](time-log-template.txt), but I do find it extremely useful on hectic days or ones where I'm more easily distracted than usual.  
 
-__Potential Gotcha:__ If you're not used to thinking about file paths, please pay close attention to them when you use, change, or create wikilinks. I mention this because at the beginning of every year I rename my personal files to add another underscore at the front of the file name, which pushes it further down in the file directory. It takes me 5-10 minutes to use "find and replace in project" to update this change in all the files, which feels like a decent trade-off to make to have the current year's files at the top of the file directory the entire rest of the year. In this collection of starter files, the file paths don't match what I actually do in my own notes. If you find yourself wanting to rename the files to improve how they're sorted in your own system, please remember to also update the wikilink file paths. On the plus side, the only thing that happens when a path is wrong is that you either open the wrong file or start a new, empty file. So the errors aren't destructive, just surprising or jarring at worst.  
+__Potential Gotcha if you use Atom; no longer relevant if you use Dendron:__ If you're not used to thinking about file paths, please pay close attention to them when you use, change, or create wikilinks. I mention this because at the beginning of every year I rename my personal files to add another underscore at the front of the file name, which pushes it further down in the file directory. It takes me 5-10 minutes to use "find and replace in project" to update this change in all the files, which feels like a decent trade-off to make to have the current year's files at the top of the file directory the entire rest of the year. In this collection of starter files, the file paths don't match what I actually do in my own notes. If you find yourself wanting to rename the files to improve how they're sorted in your own system, please remember to also update the wikilink file paths. On the plus side, the only thing that happens when a path is wrong is that you either open the wrong file or start a new, empty file. So the errors aren't destructive, just surprising or jarring at worst.  
 
 #### planning and review  
 
@@ -179,7 +180,7 @@ These files mostly use [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) conven
 
 Having double entries for a particular date (i.e. days at the end of beginning or end of a month on two separate monthly files) sets you up for mistakes. Therefore, each date and week only shows up on a single file, determined by the beginning of the week that includes that date.  
 
-#### file extension  
+#### file extension (no longer relevant now that I use Dendron)  
 
 Even though most people use `.md` for markdown-formatted files, I prefer to have them be `.txt` (unless there's a need for them to be otherwise, like in Jekyll or other environments). You can of course change that for your own purposes. If you leave them as `.txt` files, you may need to tell Atom or whatever editor you're using to treat them as (github flavored) markdown files.  
 
@@ -190,7 +191,7 @@ These files blend together a lot of strategies & tactics I've picked up from oth
 - [Bullet Journal](http://web.archive.org/web/20150502033040/http://www.bulletjournal.com/) conventions & patterns are super useful. Ryder Carroll's book on his method is also very helpful.  
 - [Back to Work](http://5by5.tv/b2w) is Merlin Mann & Dan Benjamin's podcast. In particular, their [episodes on Getting Things Done](http://5by5.tv/b2w/95) helped me think about my processes.  
 - [Gina Trapani](https://ginatrapani.org) has a page of [`todo.txt`](http://todotxt.org) apps, as well as a [`todo.txt` format primer](https://github.com/todotxt/todo.txt).  
-- [Dave Seah](https://davidseah.com/productivity-tools/) has a ton of great productivity tools, as well as a blog about refining processes and treating things as an ongoing experiment.  
+- [D.Sri Seah](https://davidseah.com/productivity-tools/) has a ton of great productivity tools, as well as a blog about refining processes and treating things as an ongoing experiment.  
 - [A Better Mess](http://bettermess.com/start-here/) shares Michael Schechter's attempts to do better work while also being an ADHD mess.  
 - Francesco Cirillo's [Pomodoro Technique](https://francescocirillo.com/pages/pomodoro-technique), particularly tracking interruptions  
   - Here's a [one-sheet primer](https://wellness.ucsd.edu/CAPS/Documents/tx_forms/koch/pomodoro_handouts/pomodoro_cheat_sheet.pdf)  
